@@ -1,6 +1,7 @@
 name: Go Build and Compile
-
 on:
+  schedule:
+    - cron: '0 0 * * *'
   push:
     branches:
       - main
