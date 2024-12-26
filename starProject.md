@@ -1,3 +1,6 @@
+### [snappdevelopment/JsonTree](https://github.com/snappdevelopment/JsonTree)
+- **Description:** A Compose Multiplatform library for pretty Json in Compose
+
 ### [Naezr/ShyFox](https://github.com/Naezr/ShyFox)
 - **Description:** A very shy little theme that hides the entire browser interface in the window border
 
@@ -357,12 +360,6 @@
 ### [whyour/qinglong](https://github.com/whyour/qinglong)
 - **Description:** 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
 
-### [pantsel/konga](https://github.com/pantsel/konga)
-- **Description:** More than just another GUI to Kong Admin API
-
-### [Kong/kong](https://github.com/Kong/kong)
-- **Description:** 🦍 The Cloud-Native API Gateway and AI Gateway.
-
 ### [vanniktech/Emoji](https://github.com/vanniktech/Emoji)
 - **Description:** A library to add Emoji support to your Android / iOS / JVM Application
 
@@ -447,9 +444,6 @@
 ### [ddddxxx/LyricsKit](https://github.com/ddddxxx/LyricsKit)
 - **Description:** Lyrics submodule for LyricsX
 
-### [Omico/Gradm](https://github.com/Omico/Gradm)
-- **Description:** Gradm (Gradle dependencies manager)
-
 ### [clansty/Q2TG](https://github.com/clansty/Q2TG)
 - **Description:** QQ 与 Telegram 群相互转发的 bot
 
@@ -490,9 +484,6 @@
 
 ### [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
 - **Description:** An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。  
-
-### [gravitl/netmaker](https://github.com/gravitl/netmaker)
-- **Description:** Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 
 ### [oligot/go-mod-upgrade](https://github.com/oligot/go-mod-upgrade)
 - **Description:** Update outdated Go dependencies interactively
@@ -556,9 +547,6 @@
 
 ### [tindy2013/subconverter](https://github.com/tindy2013/subconverter)
 - **Description:** Utility to convert between various subscription format
-
-### [bangbang93/openbmclapi](https://github.com/bangbang93/openbmclapi)
-- **Description:** BMCLAPI@Home
 
 ### [rancher/system-upgrade-controller](https://github.com/rancher/system-upgrade-controller)
 - **Description:** In your Kubernetes, upgrading your nodes
@@ -658,9 +646,6 @@
 ### [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
 - **Description:** 🚀🚀🚀A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac.
 
-### [takari/maven-wrapper](https://github.com/takari/maven-wrapper)
-- **Description:** The easiest way to integrate Maven into your project!
-
 ### [canton7/SyncTrayzor](https://github.com/canton7/SyncTrayzor)
 - **Description:** Windows tray utility / filesystem watcher / launcher for Syncthing
 
@@ -687,17 +672,11 @@
 ### [google/libphonenumber](https://github.com/google/libphonenumber)
 - **Description:** Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
 
-### [monyhar/monyhar-lite](https://github.com/monyhar/monyhar-lite)
-- **Description:** 梦弘浏览器 自主研发版本 - 完全自主研发，打破国外垄断，比 Chrome 快 600%。缺少上网功能。
-
 ### [dushixiang/kafka-map](https://github.com/dushixiang/kafka-map)
 - **Description:** A beautiful, concise and powerful kafka web management tool. 一个美观简洁且强大的kafka web管理工具。
 
 ### [keycloak/keycloak](https://github.com/keycloak/keycloak)
 - **Description:** Open Source Identity and Access Management For Modern Applications and Services
-
-### [vernesong/OpenClash](https://github.com/vernesong/OpenClash)
-- **Description:** A Clash Client For OpenWrt
 
 ### [xiaorouji/openwrt-passwall](https://github.com/xiaorouji/openwrt-passwall)
 
@@ -748,9 +727,6 @@
 
 ### [lqs/sqlingo](https://github.com/lqs/sqlingo)
 - **Description:** 💥 A lightweight DSL & ORM which helps you to write SQL in Go.
-
-### [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic)
-- **Description:** 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron: 
 
 ### [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql)
 - **Description:** Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
@@ -830,9 +806,6 @@
 ### [liuyangming/ByteTCC](https://github.com/liuyangming/ByteTCC)
 - **Description:** ByteTCC is a distributed transaction manager based on the TCC(Try/Confirm/Cancel) mechanism. It’s compatible with the JTA specification. User guide: https://github.com/liuyangming/ByteTCC/wiki
 
-### [websiddu/sketch-material](https://github.com/websiddu/sketch-material)
-- **Description:** Sketch material is a sketch plugin that will help you generate complex material components like tables, chips, forms etc…
-
 ### [apache/incubator-seata](https://github.com/apache/incubator-seata)
 - **Description:** :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
 
@@ -888,9 +861,6 @@
 - **Description:** This is a small extension to Google's Guava library to allow for the creation of configurable retrying strategies for an arbitrary function call, such as something that talks to a remote service with flaky uptime.
 
 ### [spring-projects/spring-retry](https://github.com/spring-projects/spring-retry)
-
-### [elrumo/macOS_Big_Sur_icons_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements)
-- **Description:** Replacement icons for popular apps in the style of macOS Big Sur
 
 ### [apache/superset](https://github.com/apache/superset)
 - **Description:** Apache Superset is a Data Visualization and Data Exploration Platform
@@ -1298,9 +1268,6 @@
 ### [ittianyu/MVVM](https://github.com/ittianyu/MVVM)
 - **Description:** 《安卓-深入浅出MVVM教程》 附带的案例。本系列已废弃，如对MVVM有需求，可看我的新开源项目 relight
 
-### [nondanee/UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic)
-- **Description:** Revive unavailable songs for Netease Cloud Music
-
 ### [google/live-transcribe-speech-engine](https://github.com/google/live-transcribe-speech-engine)
 - **Description:** Live Transcribe is an Android application that provides real-time captioning for people who are deaf or hard of hearing. This repository contains the Android client libraries for communicating with Google's Cloud Speech API that are used in Live Transcribe.
 
@@ -1308,9 +1275,6 @@
 
 ### [halo-dev/halo](https://github.com/halo-dev/halo)
 - **Description:** 强大易用的开源建站工具。
-
-### [zhaoolee/ChineseBQB](https://github.com/zhaoolee/ChineseBQB)
-- **Description:** 🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~
 
 ### [notofonts/noto-cjk](https://github.com/notofonts/noto-cjk)
 - **Description:** Noto CJK fonts
@@ -1339,20 +1303,8 @@
 ### [bmuschko/gradle-docker-plugin](https://github.com/bmuschko/gradle-docker-plugin)
 - **Description:** Gradle plugin for managing Docker images and containers.
 
-### [FuchsiaOS/FuchsiaOS-docs-zh_CN](https://github.com/FuchsiaOS/FuchsiaOS-docs-zh_CN)
-- **Description:** Fuchsia OS 简体中文文档
-
 ### [grpc/grpc](https://github.com/grpc/grpc)
 - **Description:** The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
-
-### [alibaba/p3c](https://github.com/alibaba/p3c)
-- **Description:** Alibaba Java Coding Guidelines pmd implements and IDE plugin
-
-### [qinyuhang/ShadowsocksX-NG-R](https://github.com/qinyuhang/ShadowsocksX-NG-R)
-- **Description:** Next Generation of ShadowsocksX
-
-### [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG)
-- **Description:** Next Generation of ShadowsocksX
 
 ### [florent37/ExpansionPanel](https://github.com/florent37/ExpansionPanel)
 - **Description:** Android - Expansion panels contain creation flows and allow lightweight editing of an element.
@@ -1372,20 +1324,11 @@
 ### [dyc87112/SpringBoot-Learning](https://github.com/dyc87112/SpringBoot-Learning)
 - **Description:** 《Spring Boot基础教程》，2.x版本持续连载中！点击下方链接直达教程目录！
 
-### [aaPanel/BaoTa](https://github.com/aaPanel/BaoTa)
-- **Description:** 宝塔Linux面板 - 简单好用的服务器运维面板
-
 ### [alibaba/arthas](https://github.com/alibaba/arthas)
 - **Description:** Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
 
-### [UnigramDev/Unigram](https://github.com/UnigramDev/Unigram)
-- **Description:** Telegram for Windows
-
 ### [soruly/trace.moe-media](https://github.com/soruly/trace.moe-media)
 - **Description:** Media server for serving video preview for trace.moe
-
-### [9seconds/mtg](https://github.com/9seconds/mtg)
-- **Description:** Highly opinionated MTPROTO proxy for Telegram
 
 ### [jensstein/oandbackup](https://github.com/jensstein/oandbackup)
 - **Description:** backup manager for android
@@ -1394,9 +1337,6 @@
 
 ### [projectlombok/lombok](https://github.com/projectlombok/lombok)
 - **Description:** Very spicy additions to the Java programming language.
-
-### [ikidou/TypeBuilder](https://github.com/ikidou/TypeBuilder)
-- **Description:** 用Builder生成泛型，generics type builder
 
 ### [topjohnwu/libsu](https://github.com/topjohnwu/libsu)
 - **Description:** A complete solution for apps using root permissions
@@ -1409,9 +1349,6 @@
 
 ### [openid/AppAuth-Android](https://github.com/openid/AppAuth-Android)
 - **Description:** Android client SDK for communicating with OAuth 2.0 and OpenID Connect providers.
-
-### [KunMinX/RxJava3-Operators-Magician](https://github.com/KunMinX/RxJava3-Operators-Magician)
-- **Description:** 你用不惯 RxJava，只因缺了这把钥匙  🔑  
 
 ### [JeremyLiao/FastSharedPreferences](https://github.com/JeremyLiao/FastSharedPreferences)
 - **Description:** :rocket:一个Android平台的高性能key-value组件，读写性能远超SharedPreferences
@@ -1445,9 +1382,6 @@
 ### [0xDkd/auxpi](https://github.com/0xDkd/auxpi)
 - **Description:** 🍭 集合多家 API 的新一代图床
 
-### [microsoftgraph/msgraph-sdk-java](https://github.com/microsoftgraph/msgraph-sdk-java)
-- **Description:** Microsoft Graph SDK for Java
-
 ### [tcoulter/jockeyjs](https://github.com/tcoulter/jockeyjs)
 - **Description:** Library to facilitate communication between iOS apps and JS apps running inside a UIWebView
 
@@ -1466,18 +1400,6 @@
 ### [eritpchy/Fingerprint-pay-magisk-wechat](https://github.com/eritpchy/Fingerprint-pay-magisk-wechat)
 - **Description:** 微信指纹支付 (Fingerprint pay for WeChat)
 
-### [Trumeet/OhMySAF](https://github.com/Trumeet/OhMySAF)
-- **Description:** Oh my SAF - Android simple SAF helper
-
-### [jsthon/wht-university-link](https://github.com/jsthon/wht-university-link)
-- **Description:** 万花筒 / 校园导航链接列表
-
-### [romannurik/AndroidAssetStudio](https://github.com/romannurik/AndroidAssetStudio)
-- **Description:** A set of web-based tools for generating graphics and other assets that would eventually be in an Android application's res/ directory.
-
-### [ovity/octotree](https://github.com/ovity/octotree)
-- **Description:** GitHub on steroids
-
 ### [RedMadRobot/input-mask-android](https://github.com/RedMadRobot/input-mask-android)
 - **Description:** User input masking library repo.
 
@@ -1495,9 +1417,6 @@
 
 ### [fython/PackageTracker-KotlinServer](https://github.com/fython/PackageTracker-KotlinServer)
 - **Description:** [WIP] Package Tracker Push Server for Kotlin
-
-### [jqs7/zwei](https://github.com/jqs7/zwei)
-- **Description:** Telegram 进群验证码机器人 Serverless  version: https://github.com/jqs7/drei
 
 ### [fython-tools/DocUIProxy-Android](https://github.com/fython-tools/DocUIProxy-Android)
 - **Description:** Fake Camera App to proxy Documents UI Selector for WeChat and other apps
@@ -1552,9 +1471,6 @@
 
 ### [mozilla/send](https://github.com/mozilla/send)
 - **Description:** Simple, private file sharing from the makers of Firefox
-
-### [Zo3i/frpMgr](https://github.com/Zo3i/frpMgr)
-- **Description:** Frp快速配置面板
 
 ### [hadyang/interview](https://github.com/hadyang/interview)
 - **Description:** Java 笔试、面试 知识整理
@@ -1641,9 +1557,6 @@
 ### [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku)
 - **Description:** Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 
-### [RikkaW/MaterialPreference](https://github.com/RikkaW/MaterialPreference)
-- **Description:** Material Design Preference UI
-
 ### [joonro/Get-ChildItemColor](https://github.com/joonro/Get-ChildItemColor)
 - **Description:** Get-ChildItemColor provides colorized version of Get-ChildItem Cmdlet of PowerShell.
 
@@ -1719,12 +1632,6 @@
 ### [Kotlin/anko](https://github.com/Kotlin/anko)
 - **Description:** Pleasant Android application development
 
-### [android-cn/android-jobs](https://github.com/android-cn/android-jobs)
-- **Description:** 2018 年最新内推！我们相信来到这里的，无论工程师还是招聘者都是靠谱的！微信公众号:codekk，
-
-### [android-cn/android-discuss](https://github.com/android-cn/android-discuss)
-- **Description:** Android 问题交流讨论坛, 微信公众号:codekk, 网站: 
-
 ### [willowtreeapps/spruce-android](https://github.com/willowtreeapps/spruce-android)
 - **Description:** Spruce Animation Library
 
@@ -1743,9 +1650,6 @@
 ### [nextcloud/desktop](https://github.com/nextcloud/desktop)
 - **Description:** 💻 Desktop sync client for Nextcloud
 
-### [Mighty16/JSONToKotlinClass](https://github.com/Mighty16/JSONToKotlinClass)
-- **Description:** Intellij Idea, Android Studio plugin for generating Kotlin data classes from JSON. Helps to avoid writing boilerplate code for model classes. Supports annotations for Gson, Moshi, Jackson.
-
 ### [nextcloud-snap/nextcloud-snap](https://github.com/nextcloud-snap/nextcloud-snap)
 - **Description:** ☁️📦 Nextcloud packaged as a snap
 
@@ -1760,17 +1664,8 @@
 ### [tonsky/FiraCode](https://github.com/tonsky/FiraCode)
 - **Description:** Free monospaced font with programming ligatures
 
-### [reycn/listen1-desktop-fluent](https://github.com/reycn/listen1-desktop-fluent)
-- **Description:** 📀 One for all music player for Windows with fluent design.
-
 ### [jwtk/jjwt](https://github.com/jwtk/jjwt)
 - **Description:** Java JWT: JSON Web Token for Java and Android
-
-### [Pryaxis/TShock](https://github.com/Pryaxis/TShock)
-- **Description:** ☕️⚡️TShock provides Terraria servers with server-side characters, anti-cheat, and community management tools.
-
-### [ReactiveX/RxKotlin](https://github.com/ReactiveX/RxKotlin)
-- **Description:** RxJava bindings for Kotlin
 
 ### [iitc-project/ingress-intel-total-conversion](https://github.com/iitc-project/ingress-intel-total-conversion)
 - **Description:** ingress.com/intel total conversion user script with some new features. Should allow easier extension of the intel map.
@@ -1808,18 +1703,6 @@
 
 ### [oasisfeng/island](https://github.com/oasisfeng/island)
 - **Description:** Island for Android
-
-### [RikkaApps/Riru-LocationReportEnabler](https://github.com/RikkaApps/Riru-LocationReportEnabler)
-- **Description:** A Riru module. Enable location report by hook system_property_get.
-
-### [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer)
-- **Description:** Best Material You Design music player for Android
-
-### [ehForwarderBot/efb-wechat-slave](https://github.com/ehForwarderBot/efb-wechat-slave)
-- **Description:** A channel for EH Forwarder Bot.
-
-### [ehForwarderBot/efb-telegram-master](https://github.com/ehForwarderBot/efb-telegram-master)
-- **Description:** EFB Telegram Master Channel, a channel for EH Forwarder Bot.
 
 ### [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS)
 - **Description:** The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
@@ -1881,23 +1764,11 @@
 ### [RikkaApps/Riru](https://github.com/RikkaApps/Riru)
 - **Description:** Inject into zygote process
 
-### [Nevolution/decorator-wechat](https://github.com/Nevolution/decorator-wechat)
-- **Description:** WeChat Modernized (Nevolution Decorator)
-
-### [Nevolution/sdk](https://github.com/Nevolution/sdk)
-- **Description:** Evolve the Android notification experience of existing apps, with community-driven plug-ins.
-
 ### [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk)
 - **Description:** The Magic Mask for Android
 
 ### [minimal-manifest-twrp/platform_manifest_twrp_lineageos](https://github.com/minimal-manifest-twrp/platform_manifest_twrp_lineageos)
 - **Description:** Minimal manifest for building TWRP with LineageOS 14.1
-
-### [Nevolution/decorator-callvibration](https://github.com/Nevolution/decorator-callvibration)
-- **Description:** Call Vibration (Nevolution Decorator)
-
-### [Nevolution/decorators-misc](https://github.com/Nevolution/decorators-misc)
-- **Description:** Various generic decorators for Nevolution
 
 ### [Kotlin/kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization)
 - **Description:** Kotlin multiplatform / multi-format serialization 
@@ -1908,17 +1779,8 @@
 ### [asLody/VirtualApp](https://github.com/asLody/VirtualApp)
 - **Description:** Virtual Engine for Android(Support 14.0 in business version)
 
-### [the0demiurge/CharlesScripts](https://github.com/the0demiurge/CharlesScripts)
-- **Description:** My awesome scripts for Arch Linux or Ubuntu Gnome latest LTS or MacBook.
-
 ### [iMeiji/SetupWizardLayout](https://github.com/iMeiji/SetupWizardLayout)
 - **Description:** AOSP SetupWizard library , Android 原生设置向导布局
-
-### [Sonelli/juicessh-performancemonitor](https://github.com/Sonelli/juicessh-performancemonitor)
-- **Description:** A JuiceSSH plugin for monitoring linux servers
-
-### [q876625596/GenjiDialogV2](https://github.com/q876625596/GenjiDialogV2)
-- **Description:** 一个实用的Dialog库
 
 ### [nickbutcher/plaid](https://github.com/nickbutcher/plaid)
 - **Description:** An Android app which provides design news & inspiration as well as being an example of implementing material design.
@@ -1937,9 +1799,6 @@
 
 ### [oasisfeng/condom](https://github.com/oasisfeng/condom)
 - **Description:** 一个超轻超薄的Android工具库，阻止三方SDK中常见的有害行为，而不影响应用自身的功能。（例如严重影响用户体验的『链式唤醒』）
-
-### [Kr328/nevo-decorators-sms-captchas](https://github.com/Kr328/nevo-decorators-sms-captchas)
-- **Description:**  Sms Captchas Decorator for Nevolution
 
 ### [android/ndk-samples](https://github.com/android/ndk-samples)
 - **Description:** Android NDK samples with Android Studio
@@ -2035,28 +1894,10 @@
 ### [inloop/svg2android](https://github.com/inloop/svg2android)
 - **Description:** SVG to Android VectorDrawable XML resource file
 
-### [yanzhenjie/SwipeRecyclerView](https://github.com/yanzhenjie/SwipeRecyclerView)
-- **Description:** :melon: RecyclerView侧滑菜单，Item拖拽，滑动删除Item，自动加载更多，HeaderView，FooterView，Item分组黏贴。
-
-### [romandanylyk/PageIndicatorView](https://github.com/romandanylyk/PageIndicatorView)
-- **Description:** An page indicator for Android ViewPager
-
 ### [LineageOS/android_frameworks_base](https://github.com/LineageOS/android_frameworks_base)
-
-### [francistao/LearningNotes](https://github.com/francistao/LearningNotes)
-- **Description:** Enjoy Learning.
-
-### [dingdang-robot/dingdang-robot](https://github.com/dingdang-robot/dingdang-robot)
-- **Description:** 🤖 叮当是一款可以工作在 Raspberry Pi 上的中文语音对话机器人/智能音箱项目。
 
 ### [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
 - **Description:** 📂 Web File Browser
-
-### [opengapps/opengapps](https://github.com/opengapps/opengapps)
-- **Description:** The main repository of the Open GApps Project
-
-### [theme-next/hexo-generator-search](https://github.com/theme-next/hexo-generator-search)
-- **Description:** Not maintained. New repository ➡️
 
 ### [Blankj/AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)
 - **Description:** :fire: Android developers should collect the following utils(updating).
@@ -2114,12 +1955,6 @@
 ### [JQ-Networks/UnifiedMessageRelay](https://github.com/JQ-Networks/UnifiedMessageRelay)
 - **Description:** Group Message Forward Framework (supports QQ Telegram Line Discord)
 
-### [Z4HD/coolq-telegram-bot-docker](https://github.com/Z4HD/coolq-telegram-bot-docker)
-- **Description:** 使用Docker容器化的QQ和Telegram的消息互转机器人。Source: jqqqqqqqqqq/coolq-telegram-bot
-
-### [RikkaApps/FCM-for-Mojo-Server](https://github.com/RikkaApps/FCM-for-Mojo-Server)
-- **Description:** Server for FCM-for-Mojo
-
 ### [google/bbr](https://github.com/google/bbr)
 
 ### [jpillora/cloud-torrent](https://github.com/jpillora/cloud-torrent)
@@ -2169,9 +2004,6 @@
 
 ### [lyoshenka/cloudflare-ddns](https://github.com/lyoshenka/cloudflare-ddns)
 - **Description:** Simple, free dynamic DNS via Cloudflare
-
-### [erguotou520/bye](https://github.com/erguotou520/bye)
-- **Description:** bye to yesterday and do yourself
 
 ### [square/okhttp](https://github.com/square/okhttp)
 - **Description:** Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
@@ -2231,9 +2063,6 @@
 ### [cubesky/MiPushFake](https://github.com/cubesky/MiPushFake)
 - **Description:** MiPushFake (This project is move to https://github.com/Magisk-Modules-Repo/MiPushFake)
 
-### [ttttmr/2018_code_calendar_wallpaper](https://github.com/ttttmr/2018_code_calendar_wallpaper)
-- **Description:** 2018编程日历壁纸
-
 ### [JanYoStudio/WhatAnime](https://github.com/JanYoStudio/WhatAnime)
 - **Description:** 如果你在网络上看到一张酷似二次元番剧的插图，并且相当的感兴趣，你可以保存起来，使用WhatAnime找到它的出处。
 
@@ -2283,17 +2112,11 @@
 ### [qbeenslee/gradle-proguard-dictionary](https://github.com/qbeenslee/gradle-proguard-dictionary)
 - **Description:** A replica of wandoujia proguard dictionary
 
-### [bin456789/Unblock163MusicClient-Xposed](https://github.com/bin456789/Unblock163MusicClient-Xposed)
-- **Description:** Unblock 163 Cloud Music Android client through Xposed.
-
 ### [Gnurou/busybox-android](https://github.com/Gnurou/busybox-android)
 - **Description:** A Busybox binary that is ready to be integrated into your Android project
 
 ### [TeamTwilight/twilightforest](https://github.com/TeamTwilight/twilightforest)
 - **Description:** Twilight Forest repository
-
-### [vicc1024/OnePush](https://github.com/vicc1024/OnePush)
-- **Description:** 消息推送用OnePush，就够了！
 
 ### [Manabu-GT/ExpandableTextView](https://github.com/Manabu-GT/ExpandableTextView)
 - **Description:** Android's TextView that can expand/collapse like the Google Play's app description
@@ -2312,12 +2135,6 @@
 
 ### [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer)
 - **Description:** The classic email sending library for PHP
-
-### [yaphone/RasWxNeteaseMusic](https://github.com/yaphone/RasWxNeteaseMusic)
-- **Description:** 微信-树莓派-网易云音乐
-
-### [yaphone/RasWxMusicbox](https://github.com/yaphone/RasWxMusicbox)
-- **Description:** 树莓派上的网易播放器
 
 ### [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh)
 - **Description:** A pure Unix shell script implementing ACME client protocol
@@ -2338,9 +2155,6 @@
 
 ### [hongyangAndroid/BsDiff_And_Patch](https://github.com/hongyangAndroid/BsDiff_And_Patch)
 - **Description:** just demo;
-
-### [cundong/SmartAppUpdates](https://github.com/cundong/SmartAppUpdates)
-- **Description:** Android应用增量更新
 
 ### [shadowsocksr-backup/shadowsocks-rss](https://github.com/shadowsocksr-backup/shadowsocks-rss)
 - **Description:** ShadowsocksR update rss, SSR organization 
@@ -2375,17 +2189,11 @@
 ### [shadowsocksrr/shadowsocksr-android](https://github.com/shadowsocksrr/shadowsocksr-android)
 - **Description:** A ShadowsocksR client for Android
 
-### [GhostFlying/LocationReportEnabler](https://github.com/GhostFlying/LocationReportEnabler)
-- **Description:** A simple android app to enable Google Location Report, Google Now and related functions in China mainland or somewhere like.
-
 ### [qiusunshine/mykaiyan](https://github.com/qiusunshine/mykaiyan)
 - **Description:** 仿写开眼视频
 
 ### [diafygi/acme-tiny](https://github.com/diafygi/acme-tiny)
 - **Description:** A tiny script to issue and renew TLS certs from Let's Encrypt
-
-### [yingshaoxo/Telegram-with-QQ](https://github.com/yingshaoxo/Telegram-with-QQ)
-- **Description:** Telegram connecting QQ based on telebot and qqbot
 
 ### [sonichy/dde-dock-cmud](https://github.com/sonichy/dde-dock-cmud)
 - **Description:** DDE Dock net speed plugin
@@ -2395,17 +2203,6 @@
 
 ### [florent37/ExpectAnim](https://github.com/florent37/ExpectAnim)
 - **Description:** Describe your animation and run !
-
-### [didikee/AndroidDonate](https://github.com/didikee/AndroidDonate)
-- **Description:** Android 个人开发者捐赠集成
-
-### [JogleLew/coolq-telegram-bot](https://github.com/JogleLew/coolq-telegram-bot)
-- **Description:** QQ和Telegram的消息互转机器人
-
-### [JanYoStudio/JanYoShareXposed](https://github.com/JanYoStudio/JanYoShareXposed)
-- **Description:** Xposed module of JanYoShare
-
-### [liuyuhong0324/WhatAnime](https://github.com/liuyuhong0324/WhatAnime)
 
 ### [JanYoStudio/JanYoShare](https://github.com/JanYoStudio/JanYoShare)
 - **Description:** Better sharing apks in Android
@@ -2450,9 +2247,6 @@
 
 ### [aosp-mirror/platform_frameworks_base](https://github.com/aosp-mirror/platform_frameworks_base)
 
-### [YanYuanFE/Weily-Lab](https://github.com/YanYuanFE/Weily-Lab)
-- **Description:** 2016微力实验室
-
 ### [substratum/interfacer](https://github.com/substratum/interfacer)
 - **Description:** Substratum's background service that runs functions that should run on a completely separate thread, now without root!
 
@@ -2471,9 +2265,6 @@
 ### [LineageOS/android_device_xiaomi_armani](https://github.com/LineageOS/android_device_xiaomi_armani)
 
 ### [google/volley](https://github.com/google/volley)
-
-### [hexsum/Mojo-Webqq](https://github.com/hexsum/Mojo-Webqq)
-- **Description:** 【重要通知：WebQQ将在2019年1月1日停止服务，此项目目前已停止维护，感谢大家四年来的一路陪伴】使用Perl语言（不会没关系）编写的smartqq/webqq客户端框架（非GUI），可通过插件提供基于HTTP协议的api接口供其他语言或系统调用
 
 ### [smuyyh/ImageSelector](https://github.com/smuyyh/ImageSelector)
 - **Description:** :foggy: Android 图片选择器。充分自由定制，极大程度简化使用，支持图库多选/图片预览/单选/照片裁剪/拍照/自定义图片加载方式/自定义色调/沉浸式状态栏
