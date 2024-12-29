@@ -286,7 +286,7 @@
 - **Description:** An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
 
 ### [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)
-- **Description:** A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
+- **Description:** A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini/Claude LLM 应用。
 
 ### [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather)
 - **Description:** A Material Design Weather Application
