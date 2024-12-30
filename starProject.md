@@ -1,3 +1,6 @@
+### [featurehub-io/featurehub](https://github.com/featurehub-io/featurehub)
+- **Description:** FeatureHub - cloud native feature flags, A/B testing and remote configuration service. Real-time streaming feature updates. Provided with Java, JavaScript, React, Python, Go, .Net, Ruby, Android, Swift and Flutter SDKs. 
+
 ### [snappdevelopment/JsonTree](https://github.com/snappdevelopment/JsonTree)
 - **Description:** A Compose Multiplatform library for pretty Json in Compose
 
