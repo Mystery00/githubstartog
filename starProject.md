@@ -765,7 +765,7 @@
 - **Description:** Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조
 
 ### [ccfos/nightingale](https://github.com/ccfos/nightingale)
-- **Description:** An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.
+- **Description:** Grafana for visualization and Nightingale for alerting
 
 ### [SuLingGG/OpenWrt-Docker](https://github.com/SuLingGG/OpenWrt-Docker)
 - **Description:** Build OpenWrt Docker Images For Raspberry Pi 1~4 (Daily Update)
