@@ -1,3 +1,6 @@
+### [TermoraDev/termora](https://github.com/TermoraDev/termora)
+- **Description:** Termora 是一个终端模拟器和 SSH 客户端，支持 Windows，macOS 和 Linux。
+
 ### [featurehub-io/featurehub](https://github.com/featurehub-io/featurehub)
 - **Description:** FeatureHub - cloud native feature flags, A/B testing and remote configuration service. Real-time streaming feature updates. Provided with Java, JavaScript, React, Python, Go, .Net, Ruby, Android, Swift and Flutter SDKs. 
 
@@ -765,7 +768,7 @@
 - **Description:** Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조
 
 ### [ccfos/nightingale](https://github.com/ccfos/nightingale)
-- **Description:** Grafana for visualization and Nightingale for alerting
+- **Description:** Nightingale for monitoring and alerting, just as Grafana is for visualization.
 
 ### [SuLingGG/OpenWrt-Docker](https://github.com/SuLingGG/OpenWrt-Docker)
 - **Description:** Build OpenWrt Docker Images For Raspberry Pi 1~4 (Daily Update)
