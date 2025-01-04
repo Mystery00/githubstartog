@@ -1,3 +1,6 @@
+### [cmdparkour/vue-admin-box](https://github.com/cmdparkour/vue-admin-box)
+- **Description:** vue3,vite,element-plus中后台管理系统，集成四套基础模板，大量可利用组件，模板页面
+
 ### [TermoraDev/termora](https://github.com/TermoraDev/termora)
 - **Description:** Termora 是一个终端模拟器和 SSH 客户端，支持 Windows，macOS 和 Linux。
 
