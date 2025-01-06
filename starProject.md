@@ -148,7 +148,7 @@
 ### [gkd-kit/subscription](https://github.com/gkd-kit/subscription)
 - **Description:** GKD 默认订阅规则
 
-### [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist)
+### [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist)
 - **Description:** 小雅Alist的相关周边
 
 ### [liuyiwuqing/halo-plugin-picture-bed](https://github.com/liuyiwuqing/halo-plugin-picture-bed)
