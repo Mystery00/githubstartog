@@ -1,3 +1,6 @@
+### [foamzou/ITraffic-monitor-for-mac](https://github.com/foamzou/ITraffic-monitor-for-mac)
+- **Description:** Monitor for displaying process traffic on Mac Status bar
+
 ### [cmdparkour/vue-admin-box](https://github.com/cmdparkour/vue-admin-box)
 - **Description:** vue3,vite,element-plus中后台管理系统，集成四套基础模板，大量可利用组件，模板页面
 
@@ -294,8 +297,8 @@
 ### [patrickmn/go-cache](https://github.com/patrickmn/go-cache)
 - **Description:** An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
 
-### [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)
-- **Description:** A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini/Claude LLM 应用。
+### [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat)
+- **Description:** ✨ Local and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 
 ### [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather)
 - **Description:** A Material Design Weather Application
