@@ -5,7 +5,7 @@
 - **Description:** vue3,vite,element-plus中后台管理系统，集成四套基础模板，大量可利用组件，模板页面
 
 ### [TermoraDev/termora](https://github.com/TermoraDev/termora)
-- **Description:** Termora 是一个终端模拟器和 SSH 客户端，支持 Windows，macOS 和 Linux。
+- **Description:** Termora is a terminal emulator and SSH client for Windows, macOS and Linux.
 
 ### [featurehub-io/featurehub](https://github.com/featurehub-io/featurehub)
 - **Description:** FeatureHub - cloud native feature flags, A/B testing and remote configuration service. Real-time streaming feature updates. Provided with Java, JavaScript, React, Python, Go, .Net, Ruby, Android, Swift and Flutter SDKs. 
