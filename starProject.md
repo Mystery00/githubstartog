@@ -1,3 +1,8 @@
+### [racra/smooth-corner-rect-android-compose](https://github.com/racra/smooth-corner-rect-android-compose)
+- **Description:** Android Jetpack Compose Library that implements mathematically accurate Squircles/Superellipses to be used by composables and themes.
+
+### [TreeOfSelf/CarpetSkyAdditions-Reborn](https://github.com/TreeOfSelf/CarpetSkyAdditions-Reborn)
+
 ### [foamzou/ITraffic-monitor-for-mac](https://github.com/foamzou/ITraffic-monitor-for-mac)
 - **Description:** Monitor for displaying process traffic on Mac Status bar
 
@@ -391,7 +396,7 @@
 - **Description:** Yet another barcode scanner for Android
 
 ### [Moriafly/SaltPlayerSource](https://github.com/Moriafly/SaltPlayerSource)
-- **Description:** Salt Player for Android Release, Feedback.
+- **Description:** Salt Player (A local music player trusted and chosen by hundreds of thousands of users) for Android Release, Feedback.
 
 ### [prometheus/client_golang](https://github.com/prometheus/client_golang)
 - **Description:** Prometheus instrumentation library for Go applications
