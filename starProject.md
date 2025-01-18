@@ -1,3 +1,6 @@
+### [lxgw/kose-font](https://github.com/lxgw/kose-font)
+- **Description:** A Chinese handwriting font derived from SetoFont. 一款衍生于「濑户字体」的中文手写字型。
+
 ### [racra/smooth-corner-rect-android-compose](https://github.com/racra/smooth-corner-rect-android-compose)
 - **Description:** Android Jetpack Compose Library that implements mathematically accurate Squircles/Superellipses to be used by composables and themes.
 
