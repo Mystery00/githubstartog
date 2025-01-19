@@ -199,7 +199,7 @@
 - **Description:** #1 Locally hosted web application that allows you to perform various operations on PDF files
 
 ### [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
-- **Description:** Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)
+- **Description:** A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 
 ### [VigorousPro/TS3-Translation_zh-CN](https://github.com/VigorousPro/TS3-Translation_zh-CN)
 - **Description:** TeamSpeak 3 客户端 简体中文 翻译源文件
