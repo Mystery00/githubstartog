@@ -422,9 +422,6 @@
 ### [flashcatcloud/categraf](https://github.com/flashcatcloud/categraf)
 - **Description:** one-stop telemetry collector for nightingale
 
-### [gurucomputing/headscale-ui](https://github.com/gurucomputing/headscale-ui)
-- **Description:** A web frontend for the headscale Tailscale-compatible coordination server
-
 ### [webp-sh/webp_server_go](https://github.com/webp-sh/webp_server_go)
 - **Description:** Go version of WebP Server. A tool that will serve your JPG/PNG/BMP/SVGs as WebP/AVIF format with compression, on-the-fly.
 
