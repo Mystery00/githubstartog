@@ -211,7 +211,7 @@
 - **Description:** Clean up Kubernetes yaml and json output to make it readable
 
 ### [go-resty/resty](https://github.com/go-resty/resty)
-- **Description:** Simple HTTP and REST client library for Go
+- **Description:** Simple HTTP, REST, and SSE client library for Go
 
 ### [1Panel-dev/KubePi](https://github.com/1Panel-dev/KubePi)
 - **Description:** 🚀 A modern, open-source K8s panel developed by the official 1Panel team.
