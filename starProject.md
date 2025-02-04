@@ -1,3 +1,6 @@
+### [KRTirtho/spotube](https://github.com/KRTirtho/spotube)
+- **Description:** 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
+
 ### [kartik-venugopal/aural-player](https://github.com/kartik-venugopal/aural-player)
 - **Description:** An audio file player for macOS, inspired by Winamp.
 
@@ -73,7 +76,7 @@
 - **Description:** Fluent Design UI library for Compose Multiplatform
 
 ### [mountain-loop/yaak](https://github.com/mountain-loop/yaak)
-- **Description:** The most intuitive desktop API client. Organize and execute REST, GraphQL, and gRPC requests in a simple and intuitive app.
+- **Description:** The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
 
 ### [cloudflare/serverless-registry](https://github.com/cloudflare/serverless-registry)
 - **Description:** A container registry backed by Workers and R2.
