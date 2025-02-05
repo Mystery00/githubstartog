@@ -312,7 +312,7 @@
 - **Description:** An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
 
 ### [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat)
-- **Description:** ✨ Local and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
+- **Description:** ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 
 ### [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather)
 - **Description:** A Material Design Weather Application
