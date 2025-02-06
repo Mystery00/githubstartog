@@ -613,7 +613,7 @@
 ### [alexzielenski/Mousecape](https://github.com/alexzielenski/Mousecape)
 - **Description:** Cursor Manager for OSX
 
-### [vaulttec/sonar-auth-oidc](https://github.com/vaulttec/sonar-auth-oidc)
+### [sonar-auth-oidc/sonar-auth-oidc](https://github.com/sonar-auth-oidc/sonar-auth-oidc)
 - **Description:** OpenID Connect (OIDC) Plugin for SonarQube
 
 ### [PranavMaganti/compose-material-dialogs](https://github.com/PranavMaganti/compose-material-dialogs)
