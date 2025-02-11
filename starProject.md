@@ -1,3 +1,6 @@
+### [Nain57/Smart-AutoClicker](https://github.com/Nain57/Smart-AutoClicker)
+- **Description:** An open-source auto clicker on images for Android
+
 ### [KRTirtho/spotube](https://github.com/KRTirtho/spotube)
 - **Description:** 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 
@@ -1999,7 +2002,7 @@
 - **Description:** DL : dynamic load framework in android
 
 ### [East196/sorrypy](https://github.com/East196/sorrypy)
-- **Description:** GIF神器sorry的python重制版
+- **Description:** GIF表情包神器sorry的python重制版
 
 ### [nitrico/LastAdapter](https://github.com/nitrico/LastAdapter)
 - **Description:** Don't write a RecyclerView adapter again. Not even a ViewHolder!
