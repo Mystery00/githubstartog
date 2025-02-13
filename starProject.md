@@ -270,7 +270,7 @@
 - **Description:** Preference implementation for Jetpack Compose Material 3
 
 ### [maxkeppeler/sheets-compose-dialogs](https://github.com/maxkeppeler/sheets-compose-dialogs)
-- **Description:** ✨ A Multiplatform Library to enhance UIs, supporting a wide range of common use-cases with Dialogs, Popups, and Bottom Sheets. ✨
+- **Description:** ✨ An android Library to enhance UIs, supporting a wide range of common use-cases with Dialogs, Popups, and Bottom Sheets. ✨
 
 ### [wei/pull](https://github.com/wei/pull)
 - **Description:** 🤖 Keep your forks up-to-date via automated PRs
