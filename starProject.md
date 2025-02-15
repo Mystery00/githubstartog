@@ -446,9 +446,6 @@
 ### [qiniu/qshell](https://github.com/qiniu/qshell)
 - **Description:** Shell Tools for Qiniu Cloud
 
-### [satori-com/tcpkali](https://github.com/satori-com/tcpkali)
-- **Description:** Fast multi-core TCP and WebSockets load generator.
-
 ### [goproxy/goproxy](https://github.com/goproxy/goproxy)
 - **Description:** A minimalist Go module proxy handler.
 
@@ -498,6 +495,7 @@
 - **Description:** 🪐 Jetpack Compose Multiplatform library that allows you to implement dynamic transition animations such as shared element transitions.
 
 ### [liangkeshulizi/relativistic-ray-tracer](https://github.com/liangkeshulizi/relativistic-ray-tracer)
+- **Description:** An efficient relativistic ray tracer based on numpy.
 
 ### [tailscale/tailscale](https://github.com/tailscale/tailscale)
 - **Description:** The easiest, most secure way to use WireGuard and 2FA.
