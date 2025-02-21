@@ -366,7 +366,7 @@
 - **Description:** Wiki.js | A modern and powerful wiki app built on Node.js
 
 ### [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)
-- **Description:** 🔥 Top-Rated Web-Based Linux Server Management Tool. 1Panel features an intuitive web interface that seamlessly integrates server management and monitoring, container management, database administration, website management, system backup and restoration, and more.
+- **Description:** 🔥 1Panel offers an intuitive web interface for managing websites, files, containers, databases, and LLMs within a Linux server.
 
 ### [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx)
 - **Description:** Ingress NGINX Controller for Kubernetes
@@ -1010,7 +1010,7 @@
 ### [qiniu/kodo-browser](https://github.com/qiniu/kodo-browser)
 - **Description:** Kodo Browser 为七牛对象存储（Kodo）提供类似 Windows 资源管理器的功能。用户可以很方便的浏览文件，上传下载文件，支持断点续传等。
 
-### [dromara/hutool](https://github.com/dromara/hutool)
+### [chinabugotech/hutool](https://github.com/chinabugotech/hutool)
 - **Description:** 🍬A set of tools that keep Java sweet.
 
 ### [apache/skywalking](https://github.com/apache/skywalking)
@@ -1046,7 +1046,7 @@
 - **Description:** Apache SkyWalking Kubernetes Deployment Helm Chart
 
 ### [Tencent/MMKV](https://github.com/Tencent/MMKV)
-- **Description:** An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.
+- **Description:** An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, POSIX, and OHOS.
 
 ### [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
 - **Description:** Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows
