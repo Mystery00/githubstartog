@@ -1,3 +1,6 @@
+### [Winson-030/dify-kubernetes](https://github.com/Winson-030/dify-kubernetes)
+- **Description:** Deploy Dify on Kubernetes
+
 ### [TyCoding/langchat](https://github.com/TyCoding/langchat)
 - **Description:** LangChat: Java LLMs/AI Project, Supports Multi AI Providers( Gitee AI/ 智谱清言 / 阿里通义 / 百度千帆 / DeepSeek / 抖音豆包 / 零一万物 / 讯飞星火 / OpenAI / Gemini / Ollama / Azure / Claude 等大模型), Java生态下AI大模型产品解决方案，快速构建企业级AI知识库、AI机器人应用
 
