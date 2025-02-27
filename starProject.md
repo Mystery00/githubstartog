@@ -1,3 +1,9 @@
+### [hanfangyuan4396/dify-on-wechat](https://github.com/hanfangyuan4396/dify-on-wechat)
+- **Description:** 本项目为 chatgpt-on-wechat下游分支, 额外对接了LLMOps平台 Dify，同时支持gewechat，相比itchat更加稳定。
+
+### [leochen-g/dify-schedule](https://github.com/leochen-g/dify-schedule)
+- **Description:** Dify Schedule. 免费的Dify工作流定时助手，支持多渠道发送通知. A free automated scheduling solution for Dify, powered by GitHub Actions.
+
 ### [Winson-030/dify-kubernetes](https://github.com/Winson-030/dify-kubernetes)
 - **Description:** Deploy Dify on Kubernetes
 
@@ -1058,7 +1064,7 @@
 - **Description:** An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, POSIX, and OHOS.
 
 ### [fluent/fluent-bit](https://github.com/fluent/fluent-bit)
-- **Description:** Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows
+- **Description:** Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows
 
 ### [LuckSiege/PictureSelector](https://github.com/LuckSiege/PictureSelector)
 - **Description:** Picture Selector Library for Android or 图片选择器
