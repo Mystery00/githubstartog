@@ -1,3 +1,6 @@
+### [glorrian/cmake-gradle-plugin](https://github.com/glorrian/cmake-gradle-plugin)
+- **Description:** Gradle plugin for comfortable CMake build system using inside gradle builds
+
 ### [hanfangyuan4396/dify-on-wechat](https://github.com/hanfangyuan4396/dify-on-wechat)
 - **Description:** 本项目为 chatgpt-on-wechat下游分支, 额外对接了LLMOps平台 Dify，同时支持gewechat，相比itchat更加稳定。
 
