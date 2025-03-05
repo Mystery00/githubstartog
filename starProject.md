@@ -345,7 +345,7 @@
 - **Description:** Diff Utils library is an OpenSource library for performing the comparison / diff operations between texts or some kind of data: computing diffs, applying patches, generating unified diffs or parsing them, generating diff output for easy future displaying (like side-by-side view) and so on.
 
 ### [dataease/dataease](https://github.com/dataease/dataease)
-- **Description:** 🔥 人人可用的开源 BI 工具，Tableau、帆软的开源替代。
+- **Description:** 🔥 人人可用的开源 BI 工具，数据可视化神器。
 
 ### [raycast/script-commands](https://github.com/raycast/script-commands)
 - **Description:** Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
