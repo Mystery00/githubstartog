@@ -1,3 +1,6 @@
+### [mrtian2016/hass-panel](https://github.com/mrtian2016/hass-panel)
+- **Description:** 史上最简单的 Home Assistant 控制面板，基于 React 开发 | 一键部署到 HAOS | 有手就能用 | 无需编程经验 | 开箱即用
+
 ### [glorrian/cmake-gradle-plugin](https://github.com/glorrian/cmake-gradle-plugin)
 - **Description:** Gradle plugin for comfortable CMake build system using inside gradle builds
 
