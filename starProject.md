@@ -1,3 +1,6 @@
+### [dromara/carbon](https://github.com/dromara/carbon)
+- **Description:** A simple, semantic and developer-friendly  time  package for golang
+
 ### [mrtian2016/hass-panel](https://github.com/mrtian2016/hass-panel)
 - **Description:** 史上最简单的 Home Assistant 控制面板，基于 React 开发 | 一键部署到 HAOS | 有手就能用 | 无需编程经验 | 开箱即用
 
