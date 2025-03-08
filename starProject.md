@@ -1,3 +1,6 @@
+### [zcalusic/sysinfo](https://github.com/zcalusic/sysinfo)
+- **Description:** Sysinfo is a Go library providing Linux OS / kernel / hardware system information.
+
 ### [dromara/carbon](https://github.com/dromara/carbon)
 - **Description:** A simple, semantic and developer-friendly  time  package for golang
 
