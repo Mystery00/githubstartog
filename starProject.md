@@ -1,3 +1,6 @@
+### [zen-browser/desktop](https://github.com/zen-browser/desktop)
+- **Description:** A calmer internet, without any gimmicks.
+
 ### [zcalusic/sysinfo](https://github.com/zcalusic/sysinfo)
 - **Description:** Sysinfo is a Go library providing Linux OS / kernel / hardware system information.
 
