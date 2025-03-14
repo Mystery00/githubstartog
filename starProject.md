@@ -1,3 +1,6 @@
+### [SpaceTimee/Fusion-JetBrainsMapleMono](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono)
+- **Description:** JetBrains Maple Mono: The free and open-source font fused with JetBrains Mono & Maple Mono
+
 ### [zen-browser/desktop](https://github.com/zen-browser/desktop)
 - **Description:** A calmer internet, without any gimmicks.
 
