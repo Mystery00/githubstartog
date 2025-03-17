@@ -1,3 +1,6 @@
+### [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy)
+- **Description:** Send push notifications to your phone or desktop using PUT/POST
+
 ### [SpaceTimee/Fusion-JetBrainsMapleMono](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono)
 - **Description:** JetBrains Maple Mono: The free and open-source font fused with JetBrains Mono & Maple Mono
 
@@ -822,7 +825,7 @@
 - **Description:** Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조
 
 ### [ccfos/nightingale](https://github.com/ccfos/nightingale)
-- **Description:** Nightingale for monitoring and alerting, just as Grafana is for visualization.
+- **Description:** Nightingale for monitoring and alerting, just as Grafana for visualization.
 
 ### [SuLingGG/OpenWrt-Docker](https://github.com/SuLingGG/OpenWrt-Docker)
 - **Description:** Build OpenWrt Docker Images For Raspberry Pi 1~4 (Daily Update)
