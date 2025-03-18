@@ -1213,7 +1213,7 @@
 - **Description:** Koin - a pragmatic lightweight dependency injection framework for Kotlin & Kotlin Multiplatform
 
 ### [YiiGuxing/TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin)
-- **Description:** Translation plugin for IntelliJ based IDEs/Android Studio.
+- **Description:** Translation plugin for IntelliJ-based IDEs/Android Studio.
 
 ### [chi-rei-den/Localizer](https://github.com/chi-rei-den/Localizer)
 - **Description:** Package based Terraria mod (tModLoader) localization manager and maker. No mod file modification needed. 
