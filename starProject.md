@@ -114,7 +114,7 @@
 ### [sillygod/cdp-cache](https://github.com/sillygod/cdp-cache)
 - **Description:** a caddy 2 proxy cache plugin
 
-### [Konyaco/compose-fluent-ui](https://github.com/Konyaco/compose-fluent-ui)
+### [compose-fluent/compose-fluent-ui](https://github.com/compose-fluent/compose-fluent-ui)
 - **Description:** Fluent Design UI library for Compose Multiplatform
 
 ### [mountain-loop/yaak](https://github.com/mountain-loop/yaak)
