@@ -1,3 +1,9 @@
+### [fast-excel/fastexcel](https://github.com/fast-excel/fastexcel)
+- **Description:** easyexcel作者最新升级版本， 快速、简洁、解决大文件内存溢出的java处理Excel工具
+
+### [golangboy/wxocr](https://github.com/golangboy/wxocr)
+- **Description:** nothing
+
 ### [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy)
 - **Description:** Send push notifications to your phone or desktop using PUT/POST
 
