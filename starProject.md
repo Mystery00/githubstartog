@@ -1,3 +1,6 @@
+### [Querz/mcaselector](https://github.com/Querz/mcaselector)
+- **Description:** A tool to select chunks from Minecraft worlds for deletion or export.
+
 ### [zaunist/xugou](https://github.com/zaunist/xugou)
 - **Description:** XUGOU-基于CloudFlare的轻量化监控平台
 
