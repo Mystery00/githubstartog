@@ -1955,7 +1955,7 @@
 - **Description:** Open source online judge based on Vue, Django and Docker. | 青岛大学开源 Online Judge | QQ群 496710125 | admin@qduoj.com
 
 ### [zhblue/hustoj](https://github.com/zhblue/hustoj)
-- **Description:** Popular Open Source Online Judge based on PHP/C++/MySQL/Linux  for ACM/ICPC and NOIP training, with easy installation. 开源OJ系统
+- **Description:** Popular Simple Open Source Online Judge based on PHP/C++/MySQL/Linux  for ACM/ICPC and NOIP training, with easy installation. 简单实用的开源OJ系统
 
 ### [laravel/laravel](https://github.com/laravel/laravel)
 - **Description:** Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
