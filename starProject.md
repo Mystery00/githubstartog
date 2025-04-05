@@ -204,9 +204,6 @@
 ### [NoCLin/LightMirrors](https://github.com/NoCLin/LightMirrors)
 - **Description:** LightMirrors is a lightweight mirror server with caching capabilities that currently supports DockerHub, K8S, PyPI, PyTorch, and NPM.
 
-### [asdlokj1qpi23/subconverter](https://github.com/asdlokj1qpi23/subconverter)
-- **Description:** Utility to convert between various subscription format.Support tuic hy2 hy and vless for singbox and clash meta
-
 ### [SagerNet/sing-box](https://github.com/SagerNet/sing-box)
 - **Description:** The universal proxy platform
 
@@ -996,9 +993,6 @@
 
 ### [winshining/nginx-http-flv-module](https://github.com/winshining/nginx-http-flv-module)
 - **Description:** A media streaming server based on nginx-rtmp-module. In addtion to the features nginx-rtmp-module provides, HTTP-FLV, GOP cache, VHosts (one IP for multi domain names) and JSON style statistics are supported now.
-
-### [inu1255/soulsign-chrome](https://github.com/inu1255/soulsign-chrome)
-- **Description:** 魂签，一款用于自动签到的chrome插件
 
 ### [YJBeetle/ThrowItBot](https://github.com/YJBeetle/ThrowItBot)
 
