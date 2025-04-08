@@ -1272,7 +1272,7 @@
 ### [GradleUp/shadow](https://github.com/GradleUp/shadow)
 - **Description:** Gradle plugin to create fat/uber JARs, apply file transforms, and relocate packages for applications and libraries. Gradle version of Maven's Shade plugin.
 
-### [eycorsican/kitsunebi-android](https://github.com/eycorsican/kitsunebi-android)
+### [yamada95/kitsunebi-android](https://github.com/yamada95/kitsunebi-android)
 - **Description:**  A fully-featured V2Ray client for Android.
 
 ### [ccg2018/ClashA](https://github.com/ccg2018/ClashA)
