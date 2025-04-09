@@ -17,7 +17,7 @@
 - **Description:** JetBrains Maple Mono: The free and open-source font fused with JetBrains Mono & Maple Mono
 
 ### [zen-browser/desktop](https://github.com/zen-browser/desktop)
-- **Description:** A calmer internet, without any gimmicks.
+- **Description:** Welcome to a calmer internet
 
 ### [zcalusic/sysinfo](https://github.com/zcalusic/sysinfo)
 - **Description:** Sysinfo is a Go library providing Linux OS / kernel / hardware system information.
