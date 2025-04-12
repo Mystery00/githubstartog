@@ -1,3 +1,9 @@
+### [youzan/vant-weapp](https://github.com/youzan/vant-weapp)
+- **Description:** 轻量、可靠的小程序 UI 组件库
+
+### [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium)
+- **Description:** Get Android app updates straight from the source.
+
 ### [Querz/mcaselector](https://github.com/Querz/mcaselector)
 - **Description:** A tool to select chunks from Minecraft worlds for deletion or export.
 
