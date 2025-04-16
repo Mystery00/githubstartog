@@ -1,3 +1,9 @@
+### [zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp)
+- **Description:** A Model Context Protocol server for converting almost anything to Markdown
+
+### [executeautomation/mcp-playwright](https://github.com/executeautomation/mcp-playwright)
+- **Description:** Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌
+
 ### [TBXark/mcp-proxy](https://github.com/TBXark/mcp-proxy)
 - **Description:** An MCP proxy server that aggregates and serves multiple MCP resource servers through a single HTTP server.
 
