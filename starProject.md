@@ -1,3 +1,9 @@
+### [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook)
+- **Description:** 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
+
+### [svcvit/dify_plugin_collection](https://github.com/svcvit/dify_plugin_collection)
+- **Description:** DIFY PULGIN 插件源码集合
+
 ### [zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp)
 - **Description:** A Model Context Protocol server for converting almost anything to Markdown
 
@@ -353,7 +359,7 @@
 ### [starcwang/easy_javadoc](https://github.com/starcwang/easy_javadoc)
 - **Description:** IntelliJ IDEA 插件，自动生成javadoc文档注释
 
-### [jetplugins/apidocx](https://github.com/jetplugins/apidocx)
+### [lkqm/apidocx](https://github.com/lkqm/apidocx)
 - **Description:** Generate API documents to any place: YApi, RAP2, Eolink, etc.
 
 ### [KieronQuinn/Smartspacer](https://github.com/KieronQuinn/Smartspacer)
@@ -390,7 +396,7 @@
 - **Description:** Diff Utils library is an OpenSource library for performing the comparison / diff operations between texts or some kind of data: computing diffs, applying patches, generating unified diffs or parsing them, generating diff output for easy future displaying (like side-by-side view) and so on.
 
 ### [dataease/dataease](https://github.com/dataease/dataease)
-- **Description:** 🔥 人人可用的开源 BI 工具，数据可视化神器。
+- **Description:** 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau.
 
 ### [raycast/script-commands](https://github.com/raycast/script-commands)
 - **Description:** Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
