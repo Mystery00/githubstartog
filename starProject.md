@@ -1852,7 +1852,7 @@
 - **Description:** Use Telegram to chat with your QQ friends.
 
 ### [mikepenz/AboutLibraries](https://github.com/mikepenz/AboutLibraries)
-- **Description:** AboutLibraries automatically collects all dependencies and licenses of any gradle project (Kotlin MultiPlatform), and provides easy to integrate UI components for Android and Compose-jb environments 
+- **Description:** AboutLibraries automatically collects all dependencies and licenses of any gradle project (Kotlin MultiPlatform), and provides easy to integrate UI components for Android and Compose Multiplatform environments 
 
 ### [RikkaApps/Riru](https://github.com/RikkaApps/Riru)
 - **Description:** Inject into zygote process
