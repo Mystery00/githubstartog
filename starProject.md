@@ -1397,7 +1397,7 @@
 - **Description:** Gradle plugin for managing Docker images and containers.
 
 ### [grpc/grpc](https://github.com/grpc/grpc)
-- **Description:** The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+- **Description:** C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 
 ### [florent37/ExpansionPanel](https://github.com/florent37/ExpansionPanel)
 - **Description:** Android - Expansion panels contain creation flows and allow lightweight editing of an element.
