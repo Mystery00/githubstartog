@@ -166,7 +166,7 @@
 - **Description:** Curated list of awesome Android apps making use of Shizuku
 
 ### [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy)
-- **Description:** 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\管理服务。支持免服务器部署到Render\Koyeb
+- **Description:** 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\管理服务。支持免服务器部署到 ClawCloud\Render\Koyeb
 
 ### [syumai/workers](https://github.com/syumai/workers)
 - **Description:** Go package to run an HTTP server on Cloudflare Workers.
