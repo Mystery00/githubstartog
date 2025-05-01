@@ -77,7 +77,7 @@
 - **Description:** An open-source auto clicker on images for Android
 
 ### [KRTirtho/spotube](https://github.com/KRTirtho/spotube)
-- **Description:** 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
+- **Description:** 🎧 Open source music client! Available for both desktop & mobile!
 
 ### [kartik-venugopal/aural-player](https://github.com/kartik-venugopal/aural-player)
 - **Description:** An audio file player for macOS, inspired by Winamp.
