@@ -1,3 +1,6 @@
+### [Stream29/ProxyAsLocalModel](https://github.com/Stream29/ProxyAsLocalModel)
+- **Description:** Proxy remote LLM API as Ollama and LM Studio, for using them in JetBrains AI Assistant
+
 ### [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook)
 - **Description:** 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 
