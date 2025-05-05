@@ -1,3 +1,6 @@
+### [localsend/localsend](https://github.com/localsend/localsend)
+- **Description:** An open-source cross-platform alternative to AirDrop
+
 ### [Stream29/ProxyAsLocalModel](https://github.com/Stream29/ProxyAsLocalModel)
 - **Description:** Proxy remote LLM API as Ollama and LM Studio, for using them in JetBrains AI Assistant
 
