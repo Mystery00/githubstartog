@@ -1,3 +1,6 @@
+### [negativa-ai/BLAFS](https://github.com/negativa-ai/BLAFS)
+- **Description:** A Bloat Aware Filesystem for Container Debloating.
+
 ### [localsend/localsend](https://github.com/localsend/localsend)
 - **Description:** An open-source cross-platform alternative to AirDrop
 
