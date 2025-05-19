@@ -1,3 +1,9 @@
+### [NanSsye/xxxbot-pad](https://github.com/NanSsye/xxxbot-pad)
+- **Description:** xxxbot-PAD版本
+
+### [sparfenyuk/mcp-proxy](https://github.com/sparfenyuk/mcp-proxy)
+- **Description:** A bridge between Streamable HTTP and stdio MCP transports
+
 ### [Tencent-TDS/KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI)
 
 ### [negativa-ai/BLAFS](https://github.com/negativa-ai/BLAFS)
