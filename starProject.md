@@ -1269,7 +1269,7 @@
 - **Description:** Terraria mod that adds onscreen health bars when fighting bosses, by popular demand.
 
 ### [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve)
-- **Description:** 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
+- **Description:** 🌩 Self-hosted file management and sharing system, supports multiple storage providers
 
 ### [coturn/coturn](https://github.com/coturn/coturn)
 - **Description:** coturn TURN server project
