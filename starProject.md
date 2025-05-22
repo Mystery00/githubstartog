@@ -134,7 +134,7 @@
 ### [ARC-MX/sgcc_electricity_new](https://github.com/ARC-MX/sgcc_electricity_new)
 - **Description:** HomeAssistant 国家电网电费查询
 
-### [korbinzhao/excalidraw-cn](https://github.com/korbinzhao/excalidraw-cn)
+### [korbinjoe/excalidraw-cn](https://github.com/korbinjoe/excalidraw-cn)
 - **Description:** Excalidraw-CN 是支持中文手写和多画布的 Excalidraw 白板工具。Excalidraw-CN  is a whiteboard supporting Chinese hand draw font and multi-canvas based on Excalidraw.
 
 ### [WuKongIM/WuKongIM](https://github.com/WuKongIM/WuKongIM)
