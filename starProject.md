@@ -1,3 +1,6 @@
+### [MultiboxLabs/flow-browser](https://github.com/MultiboxLabs/flow-browser)
+- **Description:** A modern, privacy-focused browser with a minimalistic design.
+
 ### [NanSsye/xxxbot-pad](https://github.com/NanSsye/xxxbot-pad)
 - **Description:** xxxbot-PAD版本
 
