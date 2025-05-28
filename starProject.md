@@ -1,3 +1,6 @@
+### [JetBrains/mcp-jetbrains](https://github.com/JetBrains/mcp-jetbrains)
+- **Description:** A model context protocol server to work with JetBrains IDEs: IntelliJ, PyCharm, WebStorm, etc. Also, works with Android Studio
+
 ### [MultiboxLabs/flow-browser](https://github.com/MultiboxLabs/flow-browser)
 - **Description:** A modern, privacy-focused browser with a minimalistic design.
 
@@ -10,7 +13,7 @@
 ### [Tencent-TDS/KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI)
 
 ### [negativa-ai/BLAFS](https://github.com/negativa-ai/BLAFS)
-- **Description:** A Bloat Aware Filesystem for Container Debloating.
+- **Description:** A tool for Container Debloating that removed bloat, CVEs, and improves performance.
 
 ### [localsend/localsend](https://github.com/localsend/localsend)
 - **Description:** An open-source cross-platform alternative to AirDrop
@@ -599,7 +602,7 @@
 - **Description:** Automatically activate the correct input source.
 
 ### [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
-- **Description:** An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。  
+- **Description:** An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。  
 
 ### [oligot/go-mod-upgrade](https://github.com/oligot/go-mod-upgrade)
 - **Description:** Update outdated Go dependencies interactively
