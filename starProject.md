@@ -1,3 +1,6 @@
+### [WeChatPadPro/WeChatPadPro](https://github.com/WeChatPadPro/WeChatPadPro)
+- **Description:** WeChatPadPro 是基于 WeChat Pad 的高级微信管理工具
+
 ### [JetBrains/mcp-jetbrains](https://github.com/JetBrains/mcp-jetbrains)
 - **Description:** A model context protocol server to work with JetBrains IDEs: IntelliJ, PyCharm, WebStorm, etc. Also, works with Android Studio
 
