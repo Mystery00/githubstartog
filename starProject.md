@@ -1,3 +1,9 @@
+### [cashapp/multiplatform-paging](https://github.com/cashapp/multiplatform-paging)
+- **Description:** A library that packages AndroidX Paging for Kotlin/Multiplatform.
+
+### [Foso/Ktorfit](https://github.com/Foso/Ktorfit)
+- **Description:** HTTP client generator / KSP plugin for Kotlin Multiplatform (Android, iOS, Js, Jvm, Native, WasmJs)) using KSP and Ktor clients inspired by Retrofit https://foso.github.io/Ktorfit
+
 ### [WeChatPadPro/WeChatPadPro](https://github.com/WeChatPadPro/WeChatPadPro)
 - **Description:** WeChatPadPro 是基于 WeChat Pad 的高级微信管理工具
 
@@ -16,7 +22,7 @@
 ### [Tencent-TDS/KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI)
 
 ### [negativa-ai/BLAFS](https://github.com/negativa-ai/BLAFS)
-- **Description:** A tool for Container Debloating that removed bloat, CVEs, and improves performance.
+- **Description:** A tool for Container Debloating that removes bloat and improves performance.
 
 ### [localsend/localsend](https://github.com/localsend/localsend)
 - **Description:** An open-source cross-platform alternative to AirDrop
