@@ -1,3 +1,12 @@
+### [ctripcorp/mmkv-kotlin](https://github.com/ctripcorp/mmkv-kotlin)
+- **Description:** A Kotlin Multiplatform porting for MMKV.
+
+### [vinceglb/FileKit](https://github.com/vinceglb/FileKit)
+- **Description:** Pick and save Files, Medias and Folder for Kotlin Multiplatform / KMP and Compose Multiplatform / CMP
+
+### [touchlab/Kermit](https://github.com/touchlab/Kermit)
+- **Description:** Kermit by Touchlab is a Kotlin Multiplatform centralized logging utility. 
+
 ### [cashapp/multiplatform-paging](https://github.com/cashapp/multiplatform-paging)
 - **Description:** A library that packages AndroidX Paging for Kotlin/Multiplatform.
 
@@ -12,9 +21,6 @@
 
 ### [MultiboxLabs/flow-browser](https://github.com/MultiboxLabs/flow-browser)
 - **Description:** A modern, privacy-focused browser with a minimalistic design.
-
-### [NanSsye/xxxbot-pad](https://github.com/NanSsye/xxxbot-pad)
-- **Description:** xxxbot-PAD版本
 
 ### [sparfenyuk/mcp-proxy](https://github.com/sparfenyuk/mcp-proxy)
 - **Description:** A bridge between Streamable HTTP and stdio MCP transports
