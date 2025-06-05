@@ -1,3 +1,6 @@
+### [xhongc/music-tag-web](https://github.com/xhongc/music-tag-web)
+- **Description:** 音乐标签编辑器，可编辑本地音乐文件的元数据（Editable local music file metadata.）
+
 ### [ctripcorp/mmkv-kotlin](https://github.com/ctripcorp/mmkv-kotlin)
 - **Description:** A Kotlin Multiplatform porting for MMKV.
 
@@ -807,7 +810,7 @@
 - **Description:** Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
 
 ### [dushixiang/kafka-map](https://github.com/dushixiang/kafka-map)
-- **Description:** A beautiful, concise and powerful kafka web management tool. 一个美观简洁且强大的kafka web管理工具。
+- **Description:** A beautiful, concise and powerful kafka web management tool.
 
 ### [keycloak/keycloak](https://github.com/keycloak/keycloak)
 - **Description:** Open Source Identity and Access Management For Modern Applications and Services
@@ -2291,7 +2294,7 @@
 - **Description:** ShadowsocksR update rss, SSR organization 
 
 ### [NewFuture/DDNS](https://github.com/NewFuture/DDNS)
-- **Description:** :triangular_flag_on_post: 自动更新域名解析到本机IP(支持dnspod,阿里DNS,CloudFlare,华为云,DNSCOM...)
+- **Description:** 🌐自动更新域名解析到本机IP(支持dnspod,阿里DNS,CloudFlare,华为云,DNSCOM...)
 
 ### [franmontiel/PersistentCookieJar](https://github.com/franmontiel/PersistentCookieJar)
 - **Description:** A persistent CookieJar implementation for OkHttp 3 based on SharedPreferences.
