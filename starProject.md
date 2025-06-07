@@ -1,3 +1,6 @@
+### [dengxiwang/gotab-personal](https://github.com/dengxiwang/gotab-personal)
+- **Description:** GoTab 新标签页私有化部署安装包。免费、简单、美观大气，超高自定义程度，满足您的各项要求！轻松打造个性化浏览器主页、起始页！私有化部署专属自己的个性导航页、主页！
+
 ### [xhongc/music-tag-web](https://github.com/xhongc/music-tag-web)
 - **Description:** 音乐标签编辑器，可编辑本地音乐文件的元数据（Editable local music file metadata.）
 
