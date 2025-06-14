@@ -1295,7 +1295,7 @@
 ### [Flashkirby/Yet-Another-Boss-Health-Bar](https://github.com/Flashkirby/Yet-Another-Boss-Health-Bar)
 - **Description:** Terraria mod that adds onscreen health bars when fighting bosses, by popular demand.
 
-### [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve)
+### [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve)
 - **Description:** 🌩 Self-hosted file management and sharing system, supports multiple storage providers
 
 ### [coturn/coturn](https://github.com/coturn/coturn)
