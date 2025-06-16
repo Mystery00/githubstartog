@@ -772,7 +772,7 @@
 - **Description:** Keycloak企业微信登录插件（Social Provider）
 
 ### [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick)
-- **Description:** ImageMagick is a powerful, open-source software suite for creating, editing, converting, and manipulating images in over 200 formats. Ideal for web developers, graphic designers, and researchers, it offers versatile tools for image processing, including batch processing, format conversion, and complex image transformations.
+- **Description:** ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms.
 
 ### [angristan/wireguard-install](https://github.com/angristan/wireguard-install)
 - **Description:** WireGuard VPN installer for Linux servers
