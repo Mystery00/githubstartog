@@ -1190,7 +1190,7 @@
 ### [mrmanzhaow/RestfulToolkit](https://github.com/mrmanzhaow/RestfulToolkit)
 - **Description:**  A Toolkit for RESTful services development.
 
-### [ZhangYuanSheng1217/RestfulTool](https://github.com/ZhangYuanSheng1217/RestfulTool)
+### [Yuonsa/RestfulTool](https://github.com/Yuonsa/RestfulTool)
 - **Description:** 一套 Restful 服务开发辅助工具集
 
 ### [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions)
