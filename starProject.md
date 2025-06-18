@@ -766,7 +766,7 @@
 - **Description:** Fast, dependency-free Go package to infer binary file types based on the magic numbers header signature
 
 ### [supabase/supabase](https://github.com/supabase/supabase)
-- **Description:** The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- **Description:** The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 
 ### [kkzxak47/keycloak-services-social-wechatwork](https://github.com/kkzxak47/keycloak-services-social-wechatwork)
 - **Description:** Keycloak企业微信登录插件（Social Provider）
