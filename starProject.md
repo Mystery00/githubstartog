@@ -32,6 +32,7 @@
 - **Description:** A bridge between Streamable HTTP and stdio MCP transports
 
 ### [Tencent-TDS/KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI)
+- **Description:** Provide a high-performance, full-platform development framework with unified codebase, ultimate ease of use, and dynamic flexibility.
 
 ### [negativa-ai/BLAFS](https://github.com/negativa-ai/BLAFS)
 - **Description:** A tool for Container Debloating that removes bloat and improves performance.
@@ -83,6 +84,9 @@
 
 ### [SpaceTimee/Fusion-JetBrainsMapleMono](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono)
 - **Description:** JetBrains Maple Mono: The free and open-source font fused with JetBrains Mono & Maple Mono
+
+### [zen-browser/desktop](https://github.com/zen-browser/desktop)
+- **Description:** Welcome to a calmer internet
 
 ### [zcalusic/sysinfo](https://github.com/zcalusic/sysinfo)
 - **Description:** Sysinfo is a Go library providing Linux OS / kernel / hardware system information.
