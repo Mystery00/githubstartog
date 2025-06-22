@@ -131,7 +131,7 @@
 - **Description:** 🎧 Open source music client! Available for both desktop & mobile!
 
 ### [kartik-venugopal/aural-player](https://github.com/kartik-venugopal/aural-player)
-- **Description:** An audio file player for macOS, inspired by Winamp.
+- **Description:** (Archived) An audio file player for macOS, inspired by Winamp.
 
 ### [lxgw/kose-font](https://github.com/lxgw/kose-font)
 - **Description:** A Chinese handwriting font derived from SetoFont. 一款衍生于「濑户字体」的中文手写字型。
