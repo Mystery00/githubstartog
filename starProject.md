@@ -1,3 +1,6 @@
+### [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
+- **Description:** An open-source AI agent that brings the power of Gemini directly into your terminal.
+
 ### [golang-migrate/migrate](https://github.com/golang-migrate/migrate)
 - **Description:** Database migrations. CLI and Golang library.
 
