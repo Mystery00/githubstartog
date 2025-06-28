@@ -1,3 +1,5 @@
+### [Toperlock/sing-box-subscribe](https://github.com/Toperlock/sing-box-subscribe)
+
 ### [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
 - **Description:** An open-source AI agent that brings the power of Gemini directly into your terminal.
 
