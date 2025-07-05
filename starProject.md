@@ -1,3 +1,5 @@
+### [Chaintech-Network/ComposeMultiplatformMediaPlayer](https://github.com/Chaintech-Network/ComposeMultiplatformMediaPlayer)
+
 ### [alexzhirkevich/compose-cupertino](https://github.com/alexzhirkevich/compose-cupertino)
 - **Description:** Compose Multiplatform UI components for iOS (Cupertino Widgets)
 
