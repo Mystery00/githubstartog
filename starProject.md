@@ -2218,7 +2218,7 @@
 - **Description:** MiPushFake (This project is move to https://github.com/Magisk-Modules-Repo/MiPushFake)
 
 ### [JanYoStudio/WhatAnime](https://github.com/JanYoStudio/WhatAnime)
-- **Description:** 如果你在网络上看到一张酷似二次元番剧的插图，并且相当的感兴趣，你可以保存起来，使用WhatAnime找到它的出处。
+- **Description:** 您是否曾偶然看到一张精彩的动漫截图，却苦于不知其来源？WhatAnime 是一款专为动漫爱好者设计的强大识图工具。您无需再四处询问，只需将那张动漫截图上传至APP，我们先进的图像匹配引擎将快速在庞大的动漫数据库中进行检索和比对，并在数秒内为您精准识别出该画面所属的动漫名称、出自第几集，甚至还能提供该时刻的时间点。无论是热门新作还是经典老番，WhatAnime 都能助您轻松发现和补番，是您探索动漫世界的必备神器。
 
 ### [w568w/CoolapkSDK](https://github.com/w568w/CoolapkSDK)
 - **Description:** [停止维护]第三方酷安SDK，目前实现了第三方登录和查看用户/动态详情
