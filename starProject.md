@@ -1081,7 +1081,7 @@
 
 ### [YJBeetle/ThrowItBot](https://github.com/YJBeetle/ThrowItBot)
 
-### [RedisInsight/RedisDesktopManager](https://github.com/RedisInsight/RedisDesktopManager)
+### [redis/RedisDesktopManager](https://github.com/redis/RedisDesktopManager)
 
 ### [luin/medis](https://github.com/luin/medis)
 - **Description:** 💻 Medis is a beautiful, easy-to-use Mac database management application for Redis.
