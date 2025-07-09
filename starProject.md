@@ -1966,9 +1966,6 @@
 ### [guoyoujin/MySnackBar](https://github.com/guoyoujin/MySnackBar)
 - **Description:** 从上面往下面滑出的snackBar
 
-### [madebycm/AndroidBug5497Workaround](https://github.com/madebycm/AndroidBug5497Workaround)
-- **Description:** WebView adjustResize windowSoftInputMode breaks when activity is fullscreen
-
 ### [xyzlf/ShareSDK](https://github.com/xyzlf/ShareSDK)
 - **Description:** 分享SDK，包括微信、朋友圈，微博，QQ，QQ空间等渠道分享。
 
