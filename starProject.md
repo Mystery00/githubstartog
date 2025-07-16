@@ -610,7 +610,7 @@
 - **Description:** The simplest and most complete UI for your private docker registry v2 and v3
 
 ### [coder/coder](https://github.com/coder/coder)
-- **Description:** Provision remote development environments via Terraform
+- **Description:** Secure environments for developers and their agents
 
 ### [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller)
 - **Description:** Kubernetes controller for GitHub Actions self-hosted runners
