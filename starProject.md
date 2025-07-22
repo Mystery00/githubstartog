@@ -657,7 +657,7 @@
 ### [syncthing/syncthing](https://github.com/syncthing/syncthing)
 - **Description:** Open Source Continuous File Synchronization
 
-### [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou)
+### [ReadYouApp/ReadYou](https://github.com/ReadYouApp/ReadYou)
 - **Description:** An Android RSS reader presented in Material You style.
 
 ### [badabing2005/PixelFlasher](https://github.com/badabing2005/PixelFlasher)
