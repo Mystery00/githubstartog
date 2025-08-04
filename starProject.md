@@ -1,3 +1,6 @@
+### [vvb2060/PackageInstaller](https://github.com/vvb2060/PackageInstaller)
+- **Description:** A lightweight yet powerful package installer for Android.
+
 ### [f4b6a3/ulid-creator](https://github.com/f4b6a3/ulid-creator)
 - **Description:** A Java library for generating Universally Unique Lexicographically Sortable Identifiers (ULID)
 
