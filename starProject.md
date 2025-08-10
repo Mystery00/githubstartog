@@ -1,3 +1,6 @@
+### [eip-work/kuboard-press](https://github.com/eip-work/kuboard-press)
+- **Description:** Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.23.4 安装手册，(k8s install) 在线答疑，持续更新。
+
 ### [vvb2060/PackageInstaller](https://github.com/vvb2060/PackageInstaller)
 - **Description:** A lightweight yet powerful package installer for Android.
 
