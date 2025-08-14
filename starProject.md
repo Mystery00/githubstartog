@@ -99,7 +99,7 @@
 - **Description:** XUGOU-基于CloudFlare的轻量化监控平台
 
 ### [fast-excel/fastexcel](https://github.com/fast-excel/fastexcel)
-- **Description:** easyexcel作者最新升级版本， 快速、简洁、解决大文件内存溢出的java处理Excel工具
+- **Description:** Fast. Easy. Done. Processing Excels without worrying about large files causing OOM.
 
 ### [golangboy/wxocr](https://github.com/golangboy/wxocr)
 - **Description:** nothing
