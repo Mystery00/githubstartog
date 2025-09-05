@@ -460,7 +460,7 @@
 - **Description:** ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 
 ### [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather)
-- **Description:** A Material Design Weather Application
+- **Description:** A feature-rich weather app with good visualizations and more than 50 sources.
 
 ### [java-diff-utils/java-diff-utils](https://github.com/java-diff-utils/java-diff-utils)
 - **Description:** Diff Utils library is an OpenSource library for performing the comparison / diff operations between texts or some kind of data: computing diffs, applying patches, generating unified diffs or parsing them, generating diff output for easy future displaying (like side-by-side view) and so on.
