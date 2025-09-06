@@ -141,7 +141,7 @@
 - **Description:** Production-ready platform for agentic workflow development.
 
 ### [yym68686/ChatGPT-Telegram-Bot](https://github.com/yym68686/ChatGPT-Telegram-Bot)
-- **Description:** TeleChat: 🤖️ an AI chat Telegram bot can Web Search Powered by GPT-3.5/4/4 Turbo/4o, DALL·E 3, Groq, Gemini 1.5 Pro/Flash and the official Claude2.1/3/3.5 API using Python on Zeabur, fly.io and Replit.
+- **Description:** TeleChat: 🤖️ an AI chat Telegram bot can Web Search Powered by GPT-5, DALL·E , Groq, Gemini 2.5 Pro/Flash and the official Claude4.1 API using Python on Zeabur, fly.io and Replit.
 
 ### [Nain57/Smart-AutoClicker](https://github.com/Nain57/Smart-AutoClicker)
 - **Description:** An open-source auto clicker on images for Android
