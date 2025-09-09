@@ -922,7 +922,7 @@
 - **Description:** Java library to create bots using Telegram Bots API
 
 ### [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region)
-- **Description:** Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
+- **Description:** Ip2region is an offline IP address manager framework and locator with both IPv4 and IPv6 supported, supporting billions of data segments, ten microsecond searching performance, xdb search implementation for many programming languages
 
 ### [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif)
 - **Description:** Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조
