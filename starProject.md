@@ -374,7 +374,7 @@
 - **Description:** [中文|English|日本語]基于.sav存档解析和REST&RCON优雅地用可视化界面管理幻兽帕鲁专用服务器。/ Through parse .sav and REST&RCON, visual interface management PalWorld dedicated server.
 
 ### [google/magika](https://github.com/google/magika)
-- **Description:** Detect file content types with deep learning
+- **Description:** Fast and accurate AI powered file content types detection 
 
 ### [yaml-path/YamlPath](https://github.com/yaml-path/YamlPath)
 
