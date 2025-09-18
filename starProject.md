@@ -104,7 +104,7 @@
 ### [zaunist/xugou](https://github.com/zaunist/xugou)
 - **Description:** XUGOU-基于CloudFlare的轻量化监控平台
 
-### [fast-excel/fastexcel](https://github.com/fast-excel/fastexcel)
+### [fast-excel/fesod](https://github.com/fast-excel/fesod)
 - **Description:** Fast. Easy. Done. Processing Excels without worrying about large files causing OOM.
 
 ### [golangboy/wxocr](https://github.com/golangboy/wxocr)
@@ -1482,7 +1482,7 @@
 - **Description:** Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes
 
 ### [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes)
-- **Description:** Over 400 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, Ghostty, and many more
+- **Description:** Over 425 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, Ghostty, and many more
 
 ### [AdoptOpenJDK/homebrew-openjdk](https://github.com/AdoptOpenJDK/homebrew-openjdk)
 - **Description:** AdoptOpenJDK HomeBrew Tap
