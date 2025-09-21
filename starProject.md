@@ -1053,7 +1053,7 @@
 - **Description:** A simple, zero-dependencies library to parse environment variables into structs
 
 ### [gin-gonic/gin](https://github.com/gin-gonic/gin)
-- **Description:** Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+- **Description:** Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
 
 ### [sirupsen/logrus](https://github.com/sirupsen/logrus)
 - **Description:** Structured, pluggable logging for Go.
