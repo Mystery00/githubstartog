@@ -104,7 +104,7 @@
 ### [zaunist/xugou](https://github.com/zaunist/xugou)
 - **Description:** XUGOU-基于CloudFlare的轻量化监控平台
 
-### [fast-excel/fesod](https://github.com/fast-excel/fesod)
+### [apache/fesod](https://github.com/apache/fesod)
 - **Description:** Fast. Easy. Done. Processing Excels without worrying about large files causing OOM.
 
 ### [golangboy/wxocr](https://github.com/golangboy/wxocr)
