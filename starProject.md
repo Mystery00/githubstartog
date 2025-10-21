@@ -1,3 +1,6 @@
+### [stark81/VutronMusic](https://github.com/stark81/VutronMusic)
+- **Description:** 高颜值的第三方网易云播放器；支持流媒体音乐，如navidrome、jellyfin、emby；支持本地音乐播放、离线歌单、逐字歌词、桌面歌词、Touch Bar歌词、Mac状态栏歌词显示、Linux-gnome与Linux-kde桌面状态栏歌词显示；支持降调降速，支持自定义主题等。支持 Windows / macOS / Linux :electron: 
+
 ### [moovweb/gvm](https://github.com/moovweb/gvm)
 - **Description:** Go Version Manager
 
