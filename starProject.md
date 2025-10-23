@@ -957,8 +957,8 @@
 ### [redis/jedis](https://github.com/redis/jedis)
 - **Description:** Redis Java client
 
-### [creativetimofficial/material-dashboard](https://github.com/creativetimofficial/material-dashboard)
-- **Description:** Material Dashboard - Open Source Bootstrap 5 Material Design Admin
+### [creativetimofficial/ui](https://github.com/creativetimofficial/ui)
+- **Description:** Open-source components, blocks, and AI agents designed to speed up your workflow. Import them seamlessly into your favorite tools through Registry and MCPs.
 
 ### [lambochen/shop](https://github.com/lambochen/shop)
 - **Description:** a courriculum design project that database and network, which use SSM, Junit 4, HTML, CSS, JS(AJAX) and MySQL.
