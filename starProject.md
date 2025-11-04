@@ -1,5 +1,8 @@
-### [GOgo8Go/iptv-sources](https://github.com/GOgo8Go/iptv-sources)
-- **Description:** 自动抓取更新iptv源 Autoupdate iptv sources
+### [Guovin/iptv-api](https://github.com/Guovin/iptv-api)
+- **Description:** 📺IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成流程🚀』：每日更新两次，提供免费结果订阅，输入播放器即可观看；频道自定义；个性化配置；订阅源/组播源/酒店源/本地源；IPv4/IPv6；接口验效；推流；工作流、Docker、命令行、GUI多端部署 | IPTV live streaming source automatic update platform
+
+### [skydoves/compose-stability-analyzer](https://github.com/skydoves/compose-stability-analyzer)
+- **Description:** 🦄 Real-time analysis of Jetpack Compose composable functions' stability directly within Android Studio or IntelliJ.
 
 ### [stark81/VutronMusic](https://github.com/stark81/VutronMusic)
 - **Description:** 高颜值的第三方网易云播放器；支持流媒体音乐，如navidrome、jellyfin、emby；支持本地音乐播放、离线歌单、逐字歌词、桌面歌词、Touch Bar歌词、Mac状态栏歌词显示、Linux-gnome与Linux-kde桌面状态栏歌词显示；支持降调降速，支持自定义主题等。支持 Windows / macOS / Linux :electron: 
