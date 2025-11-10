@@ -1,3 +1,9 @@
+### [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
+- **Description:** An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+
+### [TencentCloud/kubernetes-csi-tencentcloud](https://github.com/TencentCloud/kubernetes-csi-tencentcloud)
+- **Description:** kubernetes csi volume plugin for tencentcloud
+
 ### [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer)
 - **Description:** A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats.
 
@@ -35,11 +41,6 @@
 - **Description:** A Java library for generating Universally Unique Lexicographically Sortable Identifiers (ULID)
 
 ### [Chaintech-Network/ComposeMultiplatformMediaPlayer](https://github.com/Chaintech-Network/ComposeMultiplatformMediaPlayer)
-
-### [alexzhirkevich/compose-cupertino](https://github.com/alexzhirkevich/compose-cupertino)
-- **Description:** Compose Multiplatform UI components for iOS (Cupertino Widgets)
-
-### [Toperlock/sing-box-subscribe](https://github.com/Toperlock/sing-box-subscribe)
 
 ### [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
 - **Description:** An open-source AI agent that brings the power of Gemini directly into your terminal.
@@ -86,17 +87,11 @@
 ### [Tencent-TDS/KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI)
 - **Description:** Provide a high-performance, full-platform development framework with unified codebase, ultimate ease of use, and dynamic flexibility.
 
-### [negativa-ai/BLAFS](https://github.com/negativa-ai/BLAFS)
-- **Description:** A tool for Container Debloating that removes bloat and improves performance.
-
 ### [localsend/localsend](https://github.com/localsend/localsend)
 - **Description:** An open-source cross-platform alternative to AirDrop
 
 ### [Stream29/ProxyAsLocalModel](https://github.com/Stream29/ProxyAsLocalModel)
 - **Description:** Proxy remote LLM API as Ollama and LM Studio, for using them in JetBrains AI Assistant
-
-### [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook)
-- **Description:** 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 
 ### [svcvit/dify_plugin_collection](https://github.com/svcvit/dify_plugin_collection)
 - **Description:** DIFY PULGIN 插件源码集合
@@ -152,12 +147,6 @@
 ### [glorrian/cmake-gradle-plugin](https://github.com/glorrian/cmake-gradle-plugin)
 - **Description:** Gradle plugin for comfortable CMake build system using inside gradle builds
 
-### [hanfangyuan4396/dify-on-wechat](https://github.com/hanfangyuan4396/dify-on-wechat)
-- **Description:** 本项目为 chatgpt-on-wechat下游分支, 额外对接了LLMOps平台 Dify，同时支持gewechat，相比itchat更加稳定。
-
-### [leochen-g/dify-schedule](https://github.com/leochen-g/dify-schedule)
-- **Description:** Dify Schedule. 免费的Dify工作流定时助手，支持多渠道发送通知. A free automated scheduling solution for Dify, powered by GitHub Actions.
-
 ### [Winson-030/dify-kubernetes](https://github.com/Winson-030/dify-kubernetes)
 - **Description:** Deploy Dify on Kubernetes
 
@@ -167,17 +156,11 @@
 ### [langgenius/dify](https://github.com/langgenius/dify)
 - **Description:** Production-ready platform for agentic workflow development.
 
-### [yym68686/ChatGPT-Telegram-Bot](https://github.com/yym68686/ChatGPT-Telegram-Bot)
-- **Description:** TeleChat: 🤖️ an AI chat Telegram bot can Web Search Powered by GPT-5, DALL·E , Groq, Gemini 2.5 Pro/Flash and the official Claude4.1 API using Python on Zeabur, fly.io and Replit.
-
 ### [Nain57/Smart-AutoClicker](https://github.com/Nain57/Smart-AutoClicker)
 - **Description:** An open-source auto clicker on images for Android
 
 ### [KRTirtho/spotube](https://github.com/KRTirtho/spotube)
 - **Description:** 🎧 Open source music client! Available for both desktop & mobile!
-
-### [kartik-venugopal/aural-player](https://github.com/kartik-venugopal/aural-player)
-- **Description:** (Archived) An audio file player for macOS, inspired by Winamp.
 
 ### [lxgw/kose-font](https://github.com/lxgw/kose-font)
 - **Description:** A Chinese handwriting font derived from SetoFont. 一款衍生于「濑户字体」的中文手写字型。
@@ -202,12 +185,6 @@
 ### [snappdevelopment/JsonTree](https://github.com/snappdevelopment/JsonTree)
 - **Description:** A Compose Multiplatform library for pretty Json in Compose
 
-### [Naezr/ShyFox](https://github.com/Naezr/ShyFox)
-- **Description:** A very shy little theme that hides the entire browser interface in the window border
-
-### [KiKaraage/ArcWTF](https://github.com/KiKaraage/ArcWTF)
-- **Description:** A userChrome.css theme to bring Arc Browser look on Windows to Firefox. Work with Windows, Linux and macOS ✨
-
 ### [Mran/githubstartog](https://github.com/Mran/githubstartog)
 - **Description:** 将你的星标项目做成前端页面
 
@@ -219,9 +196,6 @@
 
 ### [WuKongIM/WuKongIM](https://github.com/WuKongIM/WuKongIM)
 - **Description:** More than just IM 不只是即时通讯( IM )
-
-### [duzyn/scoop-cn](https://github.com/duzyn/scoop-cn)
-- **Description:** 中国用户能用的 Scoop 应用库，每日同步 Scoop 的官方库，加速应用的下载速度
 
 ### [MxIris-LyricsX-Project/LyricsX](https://github.com/MxIris-LyricsX-Project/LyricsX)
 - **Description:** 🎶 Ultimate lyrics app for macOS.
@@ -238,14 +212,8 @@
 ### [Moriafly/SaltUI](https://github.com/Moriafly/SaltUI)
 - **Description:** UI Components for Compose Multiplatform (Android/Desktop/iOS).
 
-### [manymuch/Xgimi-4-Home-Assistant](https://github.com/manymuch/Xgimi-4-Home-Assistant)
-- **Description:** XGIMI integration for home assistant
-
 ### [jordanbaird/Ice](https://github.com/jordanbaird/Ice)
 - **Description:** Powerful menu bar manager for macOS
-
-### [sillygod/cdp-cache](https://github.com/sillygod/cdp-cache)
-- **Description:** a caddy 2 proxy cache plugin
 
 ### [compose-fluent/compose-fluent-ui](https://github.com/compose-fluent/compose-fluent-ui)
 - **Description:** Fluent Design UI library for Compose Multiplatform
@@ -262,9 +230,6 @@
 ### [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku)
 - **Description:** Curated list of awesome Android apps making use of Shizuku
 
-### [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy)
-- **Description:** 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\管理服务。支持免服务器部署到 ClawCloud\Render\Koyeb
-
 ### [syumai/workers](https://github.com/syumai/workers)
 - **Description:** Go package to run an HTTP server on Cloudflare Workers.
 
@@ -276,9 +241,6 @@
 
 ### [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh)
 - **Description:** Easy and fast file sharing from the command-line.
-
-### [781flyingdutchman/background_downloader](https://github.com/781flyingdutchman/background_downloader)
-- **Description:** Flutter plugin for file downloads and uploads
 
 ### [DevilXD/TwitchDropsMiner](https://github.com/DevilXD/TwitchDropsMiner)
 - **Description:** An app that allows you to AFK mine timed Twitch drops, with automatic drop claiming and channel switching.
@@ -304,14 +266,8 @@
 ### [chromedp/chromedp](https://github.com/chromedp/chromedp)
 - **Description:** A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
 
-### [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext)
-- **Description:** A cross-platform, reimplementation of Notepad++
-
 ### [mzzsfy/Dockerfile](https://github.com/mzzsfy/Dockerfile)
 - **Description:** 一些针对第三方工程的dockerfile,部分文件可以配合另一个项目的白嫖github action
-
-### [cmliu/CF-Workers-docker.io](https://github.com/cmliu/CF-Workers-docker.io)
-- **Description:** 这个项目是一个基于 Cloudflare Workers 的 Docker 镜像代理工具。它能够中转对 Docker 官方镜像仓库的请求，解决一些访问限制和加速访问的问题。
 
 ### [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
 - **Description:** A maintained, feature-rich and performance oriented, neofetch like system information tool.
@@ -321,9 +277,6 @@
 
 ### [aizuda/snail-job](https://github.com/aizuda/snail-job)
 - **Description:** 🔥🔥🔥 灵活，可靠和快速的分布式任务重试和分布式任务调度平台
-
-### [NoCLin/LightMirrors](https://github.com/NoCLin/LightMirrors)
-- **Description:** LightMirrors is a lightweight mirror server with caching capabilities that currently supports DockerHub, K8S, PyPI, PyTorch, and NPM.
 
 ### [SagerNet/sing-box](https://github.com/SagerNet/sing-box)
 - **Description:** The universal proxy platform
@@ -345,9 +298,6 @@
 
 ### [zero-peak/ZeroOmega](https://github.com/zero-peak/ZeroOmega)
 - **Description:** Manage and switch between multiple proxies quickly & easily.
-
-### [yuchanns/warpflare](https://github.com/yuchanns/warpflare)
-- **Description:** Keep your WARP+ traffic topped up with Cloudflare Workers.
 
 ### [BlueSkyXN/AdGuardHomeRules](https://github.com/BlueSkyXN/AdGuardHomeRules)
 - **Description:** 高达百万级规则！由我原创&整理的 AdGuardHomeRules ADH广告拦截过滤规则！打造全网最强最全规则集
@@ -390,9 +340,6 @@
 
 ### [1Panel-dev/KubePi](https://github.com/1Panel-dev/KubePi)
 - **Description:** 🚀 A modern, open-source K8s panel developed by the official 1Panel team.
-
-### [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi)
-- **Description:** 网易云音乐 Node.js API service
 
 ### [tucnak/telebot](https://github.com/tucnak/telebot)
 - **Description:** Telebot is a Telegram bot framework in Go.
