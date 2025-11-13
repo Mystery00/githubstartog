@@ -1,3 +1,6 @@
+### [antlr4-go/antlr](https://github.com/antlr4-go/antlr)
+- **Description:** A release write-only repo for ANTLR4 Go target so Go modules so tags/versions/etc... work properly.
+
 ### [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
 - **Description:** An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
