@@ -1394,7 +1394,7 @@
 - **Description:** :mailbox_with_mail:EventBus for Android，消息总线，基于LiveData，具有生命周期感知能力，支持Sticky，支持AndroidX，支持跨进程，支持跨APP
 
 ### [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole)
-- **Description:** Pi-hole in a docker container
+- **Description:** The official Pi-hole Docker image from pi-hole.net
 
 ### [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole)
 - **Description:** A black hole for Internet advertisements
