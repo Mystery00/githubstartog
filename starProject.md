@@ -108,9 +108,6 @@
 ### [TBXark/mcp-proxy](https://github.com/TBXark/mcp-proxy)
 - **Description:** An MCP proxy server that aggregates and serves multiple MCP resource servers through a single HTTP server.
 
-### [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
-- **Description:** A collection of MCP servers.
-
 ### [youzan/vant-weapp](https://github.com/youzan/vant-weapp)
 - **Description:** 轻量、可靠的小程序 UI 组件库
 
@@ -124,7 +121,7 @@
 - **Description:** XUGOU-基于CloudFlare的轻量化监控平台
 
 ### [apache/fesod](https://github.com/apache/fesod)
-- **Description:** Fast. Easy. Done. Processing Excels without worrying about large files causing OOM.
+- **Description:** Fast. Easy. Done. Processing spreadsheets without worrying about large files causing OOM.
 
 ### [golangboy/wxocr](https://github.com/golangboy/wxocr)
 - **Description:** nothing
