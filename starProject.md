@@ -2271,7 +2271,7 @@
 - **Description:** The classic email sending library for PHP
 
 ### [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh)
-- **Description:** A pure Unix shell script implementing ACME client protocol
+- **Description:** A pure Unix shell script ACME client for SSL / TLS certificate automation
 
 ### [justforlxz/deepin-topbar](https://github.com/justforlxz/deepin-topbar)
 - **Description:** Provide the function of the top bar, beautiful, easy to use.
