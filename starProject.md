@@ -108,6 +108,9 @@
 ### [TBXark/mcp-proxy](https://github.com/TBXark/mcp-proxy)
 - **Description:** An MCP proxy server that aggregates and serves multiple MCP resource servers through a single HTTP server.
 
+### [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
+- **Description:** A collection of MCP servers.
+
 ### [youzan/vant-weapp](https://github.com/youzan/vant-weapp)
 - **Description:** 轻量、可靠的小程序 UI 组件库
 
