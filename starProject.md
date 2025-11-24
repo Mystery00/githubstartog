@@ -1,3 +1,6 @@
+### [tw93/Mole](https://github.com/tw93/Mole)
+- **Description:** 🐹 Dig deep like a mole to optimize you Mac. 像鼹鼠一样深入挖掘来优化你的 Mac
+
 ### [antlr4-go/antlr](https://github.com/antlr4-go/antlr)
 - **Description:** A release write-only repo for ANTLR4 Go target so Go modules so tags/versions/etc... work properly.
 
@@ -33,9 +36,6 @@
 
 ### [Zephyruso/zashboard](https://github.com/Zephyruso/zashboard)
 - **Description:** A Dashboard Using Clash API
-
-### [eip-work/kuboard-press](https://github.com/eip-work/kuboard-press)
-- **Description:** Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.23.4 安装手册，(k8s install) 在线答疑，持续更新。
 
 ### [vvb2060/PackageInstaller](https://github.com/vvb2060/PackageInstaller)
 - **Description:** A lightweight yet powerful package installer for Android.
