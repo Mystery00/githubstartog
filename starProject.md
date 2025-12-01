@@ -163,7 +163,7 @@
 - **Description:** An open-source auto clicker on images for Android
 
 ### [KRTirtho/spotube](https://github.com/KRTirtho/spotube)
-- **Description:** 🎧 Open source music client! Available for both desktop & mobile!
+- **Description:** 🎧 Open source music streaming app! Available for both desktop & mobile!
 
 ### [lxgw/kose-font](https://github.com/lxgw/kose-font)
 - **Description:** A Chinese handwriting font derived from SetoFont. 一款衍生于「濑户字体」的中文手写字型。
