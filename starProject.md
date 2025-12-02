@@ -327,7 +327,7 @@
 - **Description:** A powerful HTTP client for Dart and Flutter, which supports global settings, Interceptors, FormData, aborting and canceling a request, files uploading and downloading, requests timeout, custom adapters, etc.
 
 ### [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
-- **Description:** #1 Locally hosted web application that allows you to perform various operations on PDF files
+- **Description:** #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 
 ### [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
 - **Description:** A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
