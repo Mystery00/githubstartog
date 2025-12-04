@@ -14,7 +14,7 @@
 - **Description:** A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats.
 
 ### [rqlite/rqlite](https://github.com/rqlite/rqlite)
-- **Description:** The lightweight, user-friendly, fault-tolerant database built on SQLite.
+- **Description:** The lightweight, fault-tolerant database built on SQLite. Designed to keep your data highly available with minimal effort.
 
 ### [Guovin/iptv-api](https://github.com/Guovin/iptv-api)
 - **Description:** 📺IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成流程🚀』：每日更新两次，提供免费结果订阅，输入播放器即可观看；频道自定义；个性化配置；订阅源/组播源/酒店源/本地源；IPv4/IPv6；接口验效；推流；工作流、Docker、命令行、GUI多端部署 | IPTV live streaming source automatic update platform
@@ -1115,7 +1115,7 @@
 - **Description:** Runtime code generation for the Java virtual machine.
 
 ### [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo)
-- **Description:** :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
+- **Description:** :rocket:A powerful & simple image uploader for Markdown creators.  Supports Obsidian, Typora, VS Code etc. and 10+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.
 
 ### [opentracing-contrib/opentracing-specification-zh](https://github.com/opentracing-contrib/opentracing-specification-zh)
 - **Description:** OpenTracing标准（中文版） `zh` (Chinese) translation of the opentracing/specification
@@ -1758,7 +1758,6 @@
 - **Description:** 仿茄子快传的一款文件传输应用
 
 ### [gradle/kotlin-dsl-samples](https://github.com/gradle/kotlin-dsl-samples)
-- **Description:** Samples builds using the Gradle Kotlin DSL
 
 ### [substratum/substratum](https://github.com/substratum/substratum)
 - **Description:** An advanced theming manager designed to be used with RRO, OMS and Dynamic Overlays
