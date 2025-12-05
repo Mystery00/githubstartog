@@ -1115,7 +1115,7 @@
 - **Description:** Runtime code generation for the Java virtual machine.
 
 ### [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo)
-- **Description:** :rocket:A powerful & simple image uploader for Markdown creators.  Supports Obsidian, Typora, VS Code etc. and 10+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.
+- **Description:** :rocket:A powerful & simple image uploader for creators.  Supports Obsidian, Typora, VS Code etc. and 10+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.
 
 ### [opentracing-contrib/opentracing-specification-zh](https://github.com/opentracing-contrib/opentracing-specification-zh)
 - **Description:** OpenTracing标准（中文版） `zh` (Chinese) translation of the opentracing/specification
