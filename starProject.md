@@ -1,3 +1,9 @@
+### [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog)
+- **Description:** 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译
+
+### [EsotericSoftware/kryo](https://github.com/EsotericSoftware/kryo)
+- **Description:** Java binary serialization and cloning: fast, efficient, automatic
+
 ### [tw93/Mole](https://github.com/tw93/Mole)
 - **Description:** 🐹 Dig deep like a mole to optimize you Mac. 像鼹鼠一样深入挖掘来优化你的 Mac
 
