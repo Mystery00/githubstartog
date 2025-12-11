@@ -1,6 +1,3 @@
-### [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog)
-- **Description:** 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译
-
 ### [EsotericSoftware/kryo](https://github.com/EsotericSoftware/kryo)
 - **Description:** Java binary serialization and cloning: fast, efficient, automatic
 
@@ -102,17 +99,11 @@
 ### [Stream29/ProxyAsLocalModel](https://github.com/Stream29/ProxyAsLocalModel)
 - **Description:** Proxy remote LLM API as Ollama and LM Studio, for using them in JetBrains AI Assistant
 
-### [svcvit/dify_plugin_collection](https://github.com/svcvit/dify_plugin_collection)
-- **Description:** DIFY PULGIN 插件源码集合
-
 ### [zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp)
 - **Description:** A Model Context Protocol server for converting almost anything to Markdown
 
 ### [executeautomation/mcp-playwright](https://github.com/executeautomation/mcp-playwright)
 - **Description:** Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌
-
-### [TBXark/mcp-proxy](https://github.com/TBXark/mcp-proxy)
-- **Description:** An MCP proxy server that aggregates and serves multiple MCP resource servers through a single HTTP server.
 
 ### [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
 - **Description:** A collection of MCP servers.
@@ -155,12 +146,6 @@
 
 ### [glorrian/cmake-gradle-plugin](https://github.com/glorrian/cmake-gradle-plugin)
 - **Description:** Gradle plugin for comfortable CMake build system using inside gradle builds
-
-### [Winson-030/dify-kubernetes](https://github.com/Winson-030/dify-kubernetes)
-- **Description:** Deploy Dify on Kubernetes
-
-### [TyCoding/langchat](https://github.com/TyCoding/langchat)
-- **Description:** LangChat: Java LLMs/AI Project, Supports Multi AI Providers( Gitee AI/ 智谱清言 / 阿里通义 / 百度千帆 / DeepSeek / 抖音豆包 / 零一万物 / 讯飞星火 / OpenAI / Gemini / Ollama / Azure / Claude 等大模型), Java生态下AI大模型产品解决方案，快速构建企业级AI知识库、AI机器人应用
 
 ### [langgenius/dify](https://github.com/langgenius/dify)
 - **Description:** Production-ready platform for agentic workflow development.
