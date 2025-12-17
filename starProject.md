@@ -2,7 +2,7 @@
 - **Description:** Java binary serialization and cloning: fast, efficient, automatic
 
 ### [tw93/Mole](https://github.com/tw93/Mole)
-- **Description:** 🐹 Dig deep like a mole to optimize you Mac. 像鼹鼠一样深入挖掘来优化你的 Mac
+- **Description:** 🐹 Deep clean and optimize your Mac.
 
 ### [antlr4-go/antlr](https://github.com/antlr4-go/antlr)
 - **Description:** A release write-only repo for ANTLR4 Go target so Go modules so tags/versions/etc... work properly.
