@@ -374,7 +374,7 @@
 - **Description:** 用python进行文本分词并生成词云
 
 ### [gkd-kit/gkd](https://github.com/gkd-kit/gkd)
-- **Description:** 基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
+- **Description:** 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
 
 ### [zhanghai/ComposePreference](https://github.com/zhanghai/ComposePreference)
 - **Description:** Preference implementation for Jetpack Compose Material 3
@@ -1106,7 +1106,7 @@
 - **Description:** Runtime code generation for the Java virtual machine.
 
 ### [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo)
-- **Description:** :rocket:A powerful & simple image uploader for creators.  Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.
+- **Description:** :rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.
 
 ### [opentracing-contrib/opentracing-specification-zh](https://github.com/opentracing-contrib/opentracing-specification-zh)
 - **Description:** OpenTracing标准（中文版） `zh` (Chinese) translation of the opentracing/specification
