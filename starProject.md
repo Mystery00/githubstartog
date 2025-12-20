@@ -1,3 +1,9 @@
+### [goauthentik/authentik](https://github.com/goauthentik/authentik)
+- **Description:** The authentication glue you need.
+
+### [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat)
+- **Description:** 🐱 跨平台互动桌宠 BongoCat，为桌面增添乐趣！
+
 ### [EsotericSoftware/kryo](https://github.com/EsotericSoftware/kryo)
 - **Description:** Java binary serialization and cloning: fast, efficient, automatic
 
