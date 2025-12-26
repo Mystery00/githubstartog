@@ -318,7 +318,7 @@
 - **Description:** Home of Generic Weather, Local Battery, Sleep as Android and more
 
 ### [babstrap/babstrap_settings_screen](https://github.com/babstrap/babstrap_settings_screen)
-- **Description:** This project help developers to get beautiful Settings Screen UI using Flutter.
+- **Description:** This project helps developers build clean, modern, and visually polished settings screens in Flutter.
 
 ### [cfug/dio](https://github.com/cfug/dio)
 - **Description:** A powerful HTTP client for Dart and Flutter, which supports global settings, Interceptors, FormData, aborting and canceling a request, files uploading and downloading, requests timeout, custom adapters, etc.
