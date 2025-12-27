@@ -38,13 +38,12 @@
 - **Description:** Go Version Manager
 
 ### [sky22333/hubproxy](https://github.com/sky22333/hubproxy)
-- **Description:** 自托管轻量级、高性能的多功能代理加速服务，提供 Docker 镜像加速、GitHub 加速、下载离线镜像等功能。一个二进制文件实现所有功能，支持仓库审计。流式转发，无缓存。
+- **Description:** 多功能代理加速服务，提供 Docker 镜像加速、GitHub 加速、下载离线镜像等功能。一个二进制文件实现所有功能，支持仓库审计。流式转发，无缓存。
 
 ### [nikkinikki-org/OpenWrt-momo](https://github.com/nikkinikki-org/OpenWrt-momo)
 - **Description:** Transparent Proxy with sing-box on OpenWrt.
 
 ### [Zephyruso/zashboard](https://github.com/Zephyruso/zashboard)
-- **Description:** A Dashboard Using Clash API
 
 ### [vvb2060/PackageInstaller](https://github.com/vvb2060/PackageInstaller)
 - **Description:** A lightweight yet powerful package installer for Android.
