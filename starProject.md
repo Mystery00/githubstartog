@@ -817,7 +817,7 @@
 ### [keycloak/keycloak](https://github.com/keycloak/keycloak)
 - **Description:** Open Source Identity and Access Management For Modern Applications and Services
 
-### [xiaorouji/openwrt-passwall](https://github.com/xiaorouji/openwrt-passwall)
+### [Openwrt-Passwall/openwrt-passwall](https://github.com/Openwrt-Passwall/openwrt-passwall)
 
 ### [coobird/thumbnailator](https://github.com/coobird/thumbnailator)
 - **Description:** Thumbnailator - a thumbnail generation library for Java
