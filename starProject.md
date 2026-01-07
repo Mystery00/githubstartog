@@ -1,3 +1,6 @@
+### [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate)
+- **Description:** Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.
+
 ### [goauthentik/authentik](https://github.com/goauthentik/authentik)
 - **Description:** The authentication glue you need.
 
@@ -26,7 +29,7 @@
 - **Description:** The lightweight, fault-tolerant database built on SQLite. Designed to keep your data highly available with minimal effort.
 
 ### [Guovin/iptv-api](https://github.com/Guovin/iptv-api)
-- **Description:** 📺IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成流程🚀』：频道自定义；个性化配置；IPv4/IPv6；接口验效；推流；工作流、Docker、命令行、GUI多端部署 | IPTV live streaming source automatic update platform
+- **Description:** 📺IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成流程🚀』：频道自定义；IPv4/IPv6；接口验效；推流；多平台支持；工作流、Docker、命令行、GUI多端部署 | IPTV live streaming source automatic update platform
 
 ### [skydoves/compose-stability-analyzer](https://github.com/skydoves/compose-stability-analyzer)
 - **Description:** 🦄 Real-time analysis of Jetpack Compose composable functions' stability directly within Android Studio or IntelliJ.
