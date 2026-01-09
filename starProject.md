@@ -1,3 +1,6 @@
+### [knoop7/Ava](https://github.com/knoop7/Ava)
+- **Description:** Turn Any Android 7-16 Device into a Smart Home Control Panel
+
 ### [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate)
 - **Description:** Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.
 
@@ -1134,7 +1137,7 @@
 ### [mindrunner/docker-android-sdk](https://github.com/mindrunner/docker-android-sdk)
 
 ### [Curzibn/Luban](https://github.com/Curzibn/Luban)
-- **Description:** Luban(鲁班)—Image compression with efficiency very close to WeChat Moments/可能是最接近微信朋友圈的图片压缩算法
+- **Description:** Luban 2（鲁班 2） —— 高效简洁的 Android 图片压缩工具库，像素级还原微信朋友圈压缩策略。(An efficient and concise Android image compression library that closely replicates the compression strategy of WeChat Moments.)
 
 ### [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio)
 - **Description:** This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
