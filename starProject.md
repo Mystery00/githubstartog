@@ -1,3 +1,9 @@
+### [wxxsfxyzm/InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived)
+- **Description:** More Expressive InstallerX !
+
+### [ZPVIP/commitgpt](https://github.com/ZPVIP/commitgpt)
+- **Description:** A CLI AI that writes git commit messages for you
+
 ### [knoop7/Ava](https://github.com/knoop7/Ava)
 - **Description:** Turn Any Android 7-16 Device into a Smart Home Control Panel
 
