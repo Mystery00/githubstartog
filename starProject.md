@@ -1,3 +1,6 @@
+### [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager)
+- **Description:** Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
+
 ### [canonical/dqlite](https://github.com/canonical/dqlite)
 - **Description:** Embeddable, replicated and fault-tolerant SQL engine.
 
