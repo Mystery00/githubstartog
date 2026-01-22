@@ -14,7 +14,7 @@
 - **Description:** A CLI AI that writes git commit messages for you
 
 ### [knoop7/Ava](https://github.com/knoop7/Ava)
-- **Description:** Turn Any Android 7-16 Device into a Smart Home Control Panel
+- **Description:** Turn any Android 7-16 device into a Bluetooth proxy all-in-one smart home control panel
 
 ### [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate)
 - **Description:** Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.
