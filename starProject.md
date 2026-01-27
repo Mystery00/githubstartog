@@ -513,7 +513,7 @@
 ### [davinci1010/pinduoduo_backdoor](https://github.com/davinci1010/pinduoduo_backdoor)
 - **Description:** 拼多多apk内嵌提权代码，及动态下发dex分析
 
-### [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers)
+### [tbxark/ChatGPT-Telegram-Workers](https://github.com/tbxark/ChatGPT-Telegram-Workers)
 - **Description:** Easily deploy your Telegram ChatGPT bot on Cloudflare Workers (or Vercel, Docker...).
 
 ### [FeatureProbe/FeatureProbe](https://github.com/FeatureProbe/FeatureProbe)
