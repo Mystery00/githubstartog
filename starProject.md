@@ -1202,7 +1202,7 @@
 ### [ddddxxx/LyricsX](https://github.com/ddddxxx/LyricsX)
 - **Description:** 🎶 Ultimate lyrics app for macOS.
 
-### [kubernetes/dashboard](https://github.com/kubernetes/dashboard)
+### [kubernetes-retired/dashboard](https://github.com/kubernetes-retired/dashboard)
 - **Description:** General-purpose web UI for Kubernetes clusters
 
 ### [microsoft/fluentui-android](https://github.com/microsoft/fluentui-android)
@@ -1470,7 +1470,7 @@
 - **Description:** Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes
 
 ### [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes)
-- **Description:** Over 425 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, Ghostty, and many more
+- **Description:** Over 450 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, Ghostty, and many more
 
 ### [AdoptOpenJDK/homebrew-openjdk](https://github.com/AdoptOpenJDK/homebrew-openjdk)
 - **Description:** AdoptOpenJDK HomeBrew Tap
