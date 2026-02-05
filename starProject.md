@@ -43,9 +43,6 @@
 ### [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer)
 - **Description:** A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats.
 
-### [rqlite/rqlite](https://github.com/rqlite/rqlite)
-- **Description:** The lightweight, fault-tolerant database built on SQLite. Designed to keep your data highly available with minimal effort.
-
 ### [Guovin/iptv-api](https://github.com/Guovin/iptv-api)
 - **Description:** ⚡️IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成🚀』：自定义获取频道；IPv4/IPv6；接口验效；推流；多平台支持；工作流、Docker、命令行、GUI多端部署 | IPTV live streaming source automatic update platform
 
