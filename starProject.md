@@ -10,9 +10,6 @@
 ### [wxxsfxyzm/InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived)
 - **Description:** More Expressive InstallerX !
 
-### [ZPVIP/commitgpt](https://github.com/ZPVIP/commitgpt)
-- **Description:** A CLI AI that writes git commit messages for you
-
 ### [knoop7/Ava](https://github.com/knoop7/Ava)
 - **Description:** Turn any Android 7-16 device into a Bluetooth proxy all-in-one smart home control panel
 
@@ -114,7 +111,7 @@
 - **Description:** A bridge between Streamable HTTP and stdio MCP transports
 
 ### [Tencent-TDS/KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI)
-- **Description:** Provide a high-performance, full-platform development framework with unified codebase, ultimate ease of use, and dynamic flexibility.
+- **Description:** 🚀 Kotlin Multiplatform UI framework from Tencent TDS — High-performance cross-platform framework with unified codebase, ease of use, and dynamic flexibility.
 
 ### [localsend/localsend](https://github.com/localsend/localsend)
 - **Description:** An open-source cross-platform alternative to AirDrop
