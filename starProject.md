@@ -1,3 +1,6 @@
+### [iqiziqi/ncmdump.rs](https://github.com/iqiziqi/ncmdump.rs)
+- **Description:** netease cloud music copyright protection file dump by rust
+
 ### [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager)
 - **Description:** Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
 
@@ -76,9 +79,6 @@
 
 ### [glebarez/sqlite](https://github.com/glebarez/sqlite)
 - **Description:** The pure-Go SQLite driver for GORM
-
-### [dengxiwang/gotab-personal](https://github.com/dengxiwang/gotab-personal)
-- **Description:** GoTab 新标签页是一款免费、简约、美观大气，超高自定义程度的导航/起始页，满足您的各项要求！支持docker一键部署！轻松打造个性化浏览器主页/起始页！适用于私有化部署专属企业内部或者个人的个性导航页/导航网站/主页/欢迎页/NAS导航页！
 
 ### [xhongc/music-tag-web](https://github.com/xhongc/music-tag-web)
 - **Description:** 音乐标签编辑器，可编辑本地音乐文件的元数据（Editable local music file metadata.）
