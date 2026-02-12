@@ -493,7 +493,7 @@
 - **Description:** Wiki.js | A modern and powerful wiki app built on Node.js
 
 ### [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)
-- **Description:** 🔥 1Panel offers an intuitive web interface for Linux server, making it easy to manage OpenClaw agents, LLMs, websites, databases, containers, files, and scheduled tasks.
+- **Description:** 🔥 1Panel offers an intuitive web interface for a Linux server / VPS, making it easy to manage OpenClaw agents, local LLMs, websites, databases, containers, files, and scheduled tasks.
 
 ### [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx)
 - **Description:** Ingress NGINX Controller for Kubernetes
