@@ -1,3 +1,6 @@
+### [XG520/kiwiot_ws](https://github.com/XG520/kiwiot_ws)
+- **Description:** 优智云家门锁插件
+
 ### [iqiziqi/ncmdump.rs](https://github.com/iqiziqi/ncmdump.rs)
 - **Description:** netease cloud music copyright protection file dump by rust
 
