@@ -1,3 +1,6 @@
+### [obra/superpowers](https://github.com/obra/superpowers)
+- **Description:** An agentic skills framework & software development methodology that works.
+
 ### [XG520/kiwiot_ws](https://github.com/XG520/kiwiot_ws)
 - **Description:** 优智云家门锁插件
 
