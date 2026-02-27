@@ -507,9 +507,6 @@
 ### [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens)
 - **Description:** OpenLens Binary Build Repository
 
-### [iFargle/headscale-webui](https://github.com/iFargle/headscale-webui)
-- **Description:** A simple Headscale web UI for small-scale deployments.
-
 ### [davinci1010/pinduoduo_backdoor](https://github.com/davinci1010/pinduoduo_backdoor)
 - **Description:** 拼多多apk内嵌提权代码，及动态下发dex分析
 
