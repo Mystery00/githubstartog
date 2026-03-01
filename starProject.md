@@ -555,9 +555,6 @@
 ### [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
 - **Description:** Virtual whiteboard for sketching hand-drawn like diagrams
 
-### [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
-- **Description:** Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-
 ### [ctripcorp/SQLlin](https://github.com/ctripcorp/SQLlin)
 - **Description:** A DSL ORM library for Kotlin Multiplatform.
 
