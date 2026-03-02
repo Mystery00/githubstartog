@@ -1,3 +1,6 @@
+### [icerockdev/moko-permissions](https://github.com/icerockdev/moko-permissions)
+- **Description:** Runtime permissions controls for mobile (android & ios) Kotlin Multiplatform development
+
 ### [obra/superpowers](https://github.com/obra/superpowers)
 - **Description:** An agentic skills framework & software development methodology that works.
 
@@ -2233,7 +2236,7 @@
 - **Description:** Android Library to rapidly develop attractive and insightful charts in android applications.
 
 ### [soruly/trace.moe](https://github.com/soruly/trace.moe)
-- **Description:** Anime Scene Search by Image
+- **Description:** Trace back an anime scene with a screenshot
 
 ### [theme-next/hexo-theme-next](https://github.com/theme-next/hexo-theme-next)
 - **Description:** Elegant and powerful theme for Hexo.
