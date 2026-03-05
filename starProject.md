@@ -1364,7 +1364,7 @@
 - **Description:** A Android GUI for Clash
 
 ### [layui/layui](https://github.com/layui/layui)
-- **Description:** 一套遵循原生态开发模式的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面。
+- **Description:** 一套遵循浏览器原生态开发模式的 Web UI 组件库。
 
 ### [topjohnwu/magisk_files](https://github.com/topjohnwu/magisk_files)
 - **Description:** (Deprecated) Magisk File Host
