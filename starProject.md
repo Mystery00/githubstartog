@@ -1,3 +1,6 @@
+### [kestra-io/kestra](https://github.com/kestra-io/kestra)
+- **Description:** Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
+
 ### [icerockdev/moko-permissions](https://github.com/icerockdev/moko-permissions)
 - **Description:** Runtime permissions controls for mobile (android & ios) Kotlin Multiplatform development
 
