@@ -1,3 +1,6 @@
+### [thedjchi/Shizuku](https://github.com/thedjchi/Shizuku)
+- **Description:** Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
+
 ### [kestra-io/kestra](https://github.com/kestra-io/kestra)
 - **Description:** Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
 
