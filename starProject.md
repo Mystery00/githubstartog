@@ -1,9 +1,6 @@
 ### [thedjchi/Shizuku](https://github.com/thedjchi/Shizuku)
 - **Description:** Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 
-### [kestra-io/kestra](https://github.com/kestra-io/kestra)
-- **Description:** Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
-
 ### [icerockdev/moko-permissions](https://github.com/icerockdev/moko-permissions)
 - **Description:** Runtime permissions controls for mobile (android & ios) Kotlin Multiplatform development
 
@@ -734,9 +731,6 @@
 
 ### [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker)
 - **Description:** Build and run Docker containers leveraging NVIDIA GPUs
-
-### [v2er-app/Android](https://github.com/v2er-app/Android)
-- **Description:** The source of V2er.Android
 
 ### [android/compose-samples](https://github.com/android/compose-samples)
 - **Description:** Official Jetpack Compose samples.
