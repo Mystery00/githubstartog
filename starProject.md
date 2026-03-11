@@ -1,3 +1,6 @@
+### [padenot/firefox-devtools-mcp](https://github.com/padenot/firefox-devtools-mcp)
+- **Description:** Model Context Protocol server for Firefox DevTools - enables AI assistants to inspect and control Firefox browser through the Remote Debugging Protocol
+
 ### [thedjchi/Shizuku](https://github.com/thedjchi/Shizuku)
 - **Description:** Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 
