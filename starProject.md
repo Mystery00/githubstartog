@@ -224,7 +224,7 @@
 - **Description:** Excalidraw-CN 是支持中文手写和多画布的 Excalidraw 白板工具。Excalidraw-CN  is a whiteboard supporting Chinese hand draw font and multi-canvas based on Excalidraw.
 
 ### [WuKongIM/WuKongIM](https://github.com/WuKongIM/WuKongIM)
-- **Description:** More than just IM 不只是即时通讯( IM )
+- **Description:** More than just IM 不只是即时通讯(IM)
 
 ### [MxIris-LyricsX-Project/LyricsX](https://github.com/MxIris-LyricsX-Project/LyricsX)
 - **Description:** 🎶 Ultimate lyrics app for macOS.
