@@ -1,5 +1,5 @@
-### [padenot/firefox-devtools-mcp](https://github.com/padenot/firefox-devtools-mcp)
-- **Description:** Model Context Protocol server for Firefox DevTools - enables AI assistants to inspect and control Firefox browser through the Remote Debugging Protocol
+### [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube)
+- **Description:** Browse media content with your own rules on Android TV
 
 ### [thedjchi/Shizuku](https://github.com/thedjchi/Shizuku)
 - **Description:** Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
@@ -28,17 +28,11 @@
 ### [wxxsfxyzm/InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived)
 - **Description:** More Expressive InstallerX !
 
-### [knoop7/Ava](https://github.com/knoop7/Ava)
-- **Description:** Turn any Android 7-16 device into a Bluetooth proxy all-in-one smart home control panel
-
 ### [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate)
 - **Description:** Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.
 
 ### [goauthentik/authentik](https://github.com/goauthentik/authentik)
 - **Description:** The authentication glue you need.
-
-### [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat)
-- **Description:** 🐱 跨平台互动桌宠 BongoCat，为桌面增添乐趣！
 
 ### [EsotericSoftware/kryo](https://github.com/EsotericSoftware/kryo)
 - **Description:** Java binary serialization and cloning: fast, efficient, automatic
@@ -51,9 +45,6 @@
 
 ### [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
 - **Description:** An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-
-### [TencentCloud/kubernetes-csi-tencentcloud](https://github.com/TencentCloud/kubernetes-csi-tencentcloud)
-- **Description:** kubernetes csi volume plugin for tencentcloud
 
 ### [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer)
 - **Description:** A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats.
