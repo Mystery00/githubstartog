@@ -1,5 +1,5 @@
 ### [TomBadash/Mouser](https://github.com/TomBadash/Mouser)
-- **Description:** A lightweight, open-source alternative to Logitech Options+ for remapping buttons on the Logitech MX Master 3S mouse
+- **Description:** A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.
 
 ### [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube)
 - **Description:** Browse media content with your own rules on Android TV
