@@ -1123,7 +1123,7 @@
 - **Description:** You know, for Kubernetes
 
 ### [YeDaxia/JApiDocs](https://github.com/YeDaxia/JApiDocs)
-- **Description:** A magical api documentation generator without annotation for springboot. [No Time Maintain]
+- **Description:** A magical api documentation generator without annotation for springboot. 
 
 ### [raphw/byte-buddy](https://github.com/raphw/byte-buddy)
 - **Description:** Runtime code generation for the Java virtual machine.
