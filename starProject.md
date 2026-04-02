@@ -1,3 +1,8 @@
+### [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills)
+
+### [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
+- **Description:** Browser automation CLI for AI agents
+
 ### [realMoai/NowbarMeter](https://github.com/realMoai/NowbarMeter)
 - **Description:** Nowbar Meter is a network speed monitor application designed specifically for Samsung devices with the nowbar feature.
 
@@ -136,6 +141,9 @@
 
 ### [executeautomation/mcp-playwright](https://github.com/executeautomation/mcp-playwright)
 - **Description:** Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌
+
+### [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
+- **Description:** A collection of MCP servers.
 
 ### [youzan/vant-weapp](https://github.com/youzan/vant-weapp)
 - **Description:** 轻量、可靠的小程序 UI 组件库
