@@ -128,7 +128,7 @@
 - **Description:** A bridge between Streamable HTTP and stdio MCP transports
 
 ### [Tencent-TDS/KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI)
-- **Description:** High-performance KMP UI framework from Tencent TDS — one codebase, six platforms (Android, iOS, HarmonyOS, Web, Mini Programs, macOS)
+- **Description:** A Kotlin Multiplatform UI framework from Tencent TDS — high-performance, one codebase for six platforms, with dynamic delivery.
 
 ### [localsend/localsend](https://github.com/localsend/localsend)
 - **Description:** An open-source cross-platform alternative to AirDrop
