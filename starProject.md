@@ -142,9 +142,6 @@
 ### [executeautomation/mcp-playwright](https://github.com/executeautomation/mcp-playwright)
 - **Description:** Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌
 
-### [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
-- **Description:** A collection of MCP servers.
-
 ### [youzan/vant-weapp](https://github.com/youzan/vant-weapp)
 - **Description:** 轻量、可靠的小程序 UI 组件库
 
@@ -510,7 +507,7 @@
 - **Description:** Wiki.js | A modern and powerful wiki app built on Node.js
 
 ### [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)
-- **Description:** 🔥 Take full control of your VPS with 1Panel. Deploy OpenClaw in one click.
+- **Description:** 🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web interface.
 
 ### [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx)
 - **Description:** Ingress NGINX Controller for Kubernetes
