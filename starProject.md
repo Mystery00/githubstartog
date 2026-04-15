@@ -1641,7 +1641,7 @@
 - **Description:** Java 笔试、面试 知识整理
 
 ### [nextcloud/docker](https://github.com/nextcloud/docker)
-- **Description:** ⛴ Docker image of Nextcloud
+- **Description:** A community maintained docker micro-image for deploying Nextcloud on container platforms
 
 ### [ysrc/AndroidObfuseDictionary](https://github.com/ysrc/AndroidObfuseDictionary)
 - **Description:** Android ProGuard变态混淆字典
