@@ -1,3 +1,6 @@
+### [mi0e/BiliBiliDropsMiner](https://github.com/mi0e/BiliBiliDropsMiner)
+- **Description:** B站直播掉宝助手，支持多线程加速
+
 ### [owu/wsl-dashboard](https://github.com/owu/wsl-dashboard)
 - **Description:** A GUI manager for WSL. A modern, high-performance, and lightweight WSL instance management dashboard. 
 
@@ -1264,7 +1267,7 @@
 - **Description:** Vert.x examples
 
 ### [openssl/openssl](https://github.com/openssl/openssl)
-- **Description:** TLS/SSL and crypto library
+- **Description:** General purpose TLS and crypto library
 
 ### [JetBrains/kotlin-native](https://github.com/JetBrains/kotlin-native)
 - **Description:** Kotlin/Native infrastructure
