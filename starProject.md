@@ -1,3 +1,6 @@
+### [canonical/go-dqlite](https://github.com/canonical/go-dqlite)
+- **Description:** Go bindings for libdqlite
+
 ### [mi0e/BiliBiliDropsMiner](https://github.com/mi0e/BiliBiliDropsMiner)
 - **Description:** B站直播掉宝助手，支持多线程加速
 
