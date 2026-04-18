@@ -1,3 +1,6 @@
+### [hellodigua/ChatLab](https://github.com/hellodigua/ChatLab)
+- **Description:** Rediscover your social memories with local, AI-powered analysis. 本地化的聊天记录分析工具，通过 AI Agent 回顾你的社交记忆。
+
 ### [canonical/go-dqlite](https://github.com/canonical/go-dqlite)
 - **Description:** Go bindings for libdqlite
 
@@ -162,9 +165,6 @@
 
 ### [Querz/mcaselector](https://github.com/Querz/mcaselector)
 - **Description:** A tool to select chunks from Minecraft worlds for deletion or export.
-
-### [zaunist/xugou](https://github.com/zaunist/xugou)
-- **Description:** XUGOU-基于CloudFlare的轻量化监控平台
 
 ### [apache/fesod](https://github.com/apache/fesod)
 - **Description:** Fast. Easy. Done. Processing spreadsheets without worrying about large files causing OOM.
