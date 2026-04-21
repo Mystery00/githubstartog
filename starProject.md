@@ -1,3 +1,12 @@
+### [maillab/cloud-mail](https://github.com/maillab/cloud-mail)
+- **Description:** A Cloudflare-based email service  | 基于 Cloudflare 的邮箱服务  | Cloudflare Email 邮箱 Mail
+
+### [kite-org/kite](https://github.com/kite-org/kite)
+- **Description:** 🪁 A lightweight, modern Kubernetes dashboard that unifies multi-cluster and resource management, enterprise-grade user governance (OAuth, RBAC, and audit logs), and AI agents in one workspace. Not just a tool, but more like a platform.
+
+### [eryajf/kite-desktop](https://github.com/eryajf/kite-desktop)
+- **Description:** kite-desktop，一个基于 Wails v3 打造、面向桌面端的 K8S 多集群管理工具 🪁
+
 ### [hellodigua/ChatLab](https://github.com/hellodigua/ChatLab)
 - **Description:** Rediscover your social memories with local, AI-powered analysis. 本地化的聊天记录分析工具，通过 AI Agent 回顾你的社交记忆。
 
