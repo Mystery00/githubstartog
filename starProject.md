@@ -1,3 +1,6 @@
+### [juicedata/juicefs](https://github.com/juicedata/juicefs)
+- **Description:** JuiceFS is a distributed POSIX file system built on top of Redis and S3.
+
 ### [maillab/cloud-mail](https://github.com/maillab/cloud-mail)
 - **Description:** A Cloudflare-based email service  | 基于 Cloudflare 的邮箱服务  | Cloudflare Email 邮箱 Mail
 
