@@ -10,7 +10,7 @@
 ### [eryajf/kite-desktop](https://github.com/eryajf/kite-desktop)
 - **Description:** kite-desktop，一个基于 Wails v3 打造、面向桌面端的 K8S 多集群管理工具 🪁
 
-### [hellodigua/ChatLab](https://github.com/hellodigua/ChatLab)
+### [ChatLab/ChatLab](https://github.com/ChatLab/ChatLab)
 - **Description:** Rediscover your social memories with local, AI-powered analysis. 本地化的聊天记录分析工具，通过 AI Agent 回顾你的社交记忆。
 
 ### [canonical/go-dqlite](https://github.com/canonical/go-dqlite)
@@ -1427,7 +1427,7 @@
 
 ### [TheMuppets/manifests](https://github.com/TheMuppets/manifests)
 
-### [verkeys/Pi-hole-Chinese](https://github.com/verkeys/Pi-hole-Chinese)
+### [AlexPhire/Pi-hole-Chinese](https://github.com/AlexPhire/Pi-hole-Chinese)
 - **Description:** Pi-hole 中文汉化版
 
 ### [twitter-archive/snowflake](https://github.com/twitter-archive/snowflake)
