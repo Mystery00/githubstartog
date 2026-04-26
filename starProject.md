@@ -1,3 +1,12 @@
+### [dream1986/nesrom](https://github.com/dream1986/nesrom)
+- **Description:** nes游戏合集
+
+### [AlkaidLab/foundation-sunshine](https://github.com/AlkaidLab/foundation-sunshine)
+- **Description:** Sunshine, a self-hosted game-stream host for Moonlight, now features an HDR-friendly fork that integrates virtual displays and control panels.
+
+### [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine)
+- **Description:** Self-hosted game stream host for Moonlight.
+
 ### [juicedata/juicefs](https://github.com/juicedata/juicefs)
 - **Description:** JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 
