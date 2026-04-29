@@ -29,7 +29,7 @@
 - **Description:** B站直播掉宝助手，支持多线程加速
 
 ### [owu/wsl-dashboard](https://github.com/owu/wsl-dashboard)
-- **Description:** A GUI manager for WSL. A modern, high-performance, and lightweight WSL instance management dashboard. 
+- **Description:** A GUI manager for WSL. A modern, low-memory, high-performance, and lightweight WSL instance management dashboard. 
 
 ### [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills)
 
