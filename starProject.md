@@ -1,3 +1,6 @@
+### [tale/headplane](https://github.com/tale/headplane)
+- **Description:** A feature-complete Web UI for Headscale
+
 ### [mengfei523060/nesrom](https://github.com/mengfei523060/nesrom)
 - **Description:** nes游戏合集
 
