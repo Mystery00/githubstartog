@@ -1729,7 +1729,7 @@
 - **Description:** Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.
 
 ### [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
-- **Description:** 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
+- **Description:** 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
 
 ### [zacharee/SystemUITunerRedesign](https://github.com/zacharee/SystemUITunerRedesign)
 - **Description:** Replacement/extension for the stock Android System UI Tuner.
