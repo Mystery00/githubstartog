@@ -1,3 +1,6 @@
+### [sameerasw/essentials](https://github.com/sameerasw/essentials)
+- **Description:** Essential tools and mods for Android nerds
+
 ### [tale/headplane](https://github.com/tale/headplane)
 - **Description:** A feature-complete Web UI for Headscale
 
