@@ -1091,7 +1091,7 @@
 - **Description:** OpenTracing API for Go. 🛑 This library is DEPRECATED! https://github.com/opentracing/specification/issues/163
 
 ### [tidwall/gjson](https://github.com/tidwall/gjson)
-- **Description:** Get JSON values quickly - JSON parser for Go
+- **Description:** Get JSON values quickly - JSON parser for Go - MIRROR https://codeberg.org/tidwall/gjson
 
 ### [redis/go-redis](https://github.com/redis/go-redis)
 - **Description:** Redis Go client
@@ -2475,6 +2475,9 @@
 
 ### [horst3180/arc-theme](https://github.com/horst3180/arc-theme)
 - **Description:** A flat theme with transparent elements
+
+### [hexojs/hexo](https://github.com/hexojs/hexo)
+- **Description:** A fast, simple & powerful blog framework, powered by Node.js.
 
 ### [CyanogenMod/android_device_moto_shamu](https://github.com/CyanogenMod/android_device_moto_shamu)
 
