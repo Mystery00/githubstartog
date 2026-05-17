@@ -1091,7 +1091,7 @@
 - **Description:** OpenTracing API for Go. 🛑 This library is DEPRECATED! https://github.com/opentracing/specification/issues/163
 
 ### [tidwall/gjson](https://github.com/tidwall/gjson)
-- **Description:** Get JSON values quickly - JSON parser for Go - MIRROR https://codeberg.org/tidwall/gjson
+- **Description:** Get JSON values quickly - JSON parser for Go
 
 ### [redis/go-redis](https://github.com/redis/go-redis)
 - **Description:** Redis Go client
