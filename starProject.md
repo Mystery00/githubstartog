@@ -983,7 +983,7 @@
 ### [creativetimofficial/ui](https://github.com/creativetimofficial/ui)
 - **Description:** Open-source components, blocks, and AI agents designed to speed up your workflow. Import them seamlessly into your favorite tools through Registry and MCPs.
 
-### [lambochen/shop](https://github.com/lambochen/shop)
+### [hongling-dev/shop](https://github.com/hongling-dev/shop)
 - **Description:** a courriculum design project that database and network, which use SSM, Junit 4, HTML, CSS, JS(AJAX) and MySQL.
 
 ### [oracle/visualvm](https://github.com/oracle/visualvm)
