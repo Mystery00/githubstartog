@@ -1611,7 +1611,7 @@
 - **Description:** android下自定义View之雷达扫描 The Radar (Scanning) View on Android 当扫描到对象的时候，通过水波纹的方式显示扫描到的对象，可以动态的随机添加，并且扫描到的对象是可以点击的……
 
 ### [material-components/material-components-android](https://github.com/material-components/material-components-android)
-- **Description:** Modular and customizable Material Design UI components for Android
+- **Description:** [MAINTENANCE MODE] Modular and customizable Material Design UI components for Android
 
 ### [ShiqiYu/libfacedetection](https://github.com/ShiqiYu/libfacedetection)
 - **Description:** An open source library for face detection in images. The face detection speed can reach 1000FPS. 
