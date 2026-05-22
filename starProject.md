@@ -76,7 +76,7 @@
 - **Description:** Embeddable, replicated and fault-tolerant SQL engine.
 
 ### [oxyroid/M3UAndroid](https://github.com/oxyroid/M3UAndroid)
-- **Description:** [PRs are welcome] Modern streaming media player for Android designed to provide a feature-rich experience for viewing IPTV content, managing M3U playlists, and playing various media formats. Built with Kotlin and modern Android development practices.
+- **Description:** a clean, practical, ad-free IPTV app
 
 ### [wxxsfxyzm/InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived)
 - **Description:** More Expressive InstallerX !
