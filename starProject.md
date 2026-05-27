@@ -97,7 +97,7 @@
 - **Description:** Java binary serialization and cloning: fast, efficient, automatic
 
 ### [tw93/Mole](https://github.com/tw93/Mole)
-- **Description:** 🐹 Deep clean and optimize your Mac.
+- **Description:** 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 
 ### [antlr4-go/antlr](https://github.com/antlr4-go/antlr)
 - **Description:** A release write-only repo for ANTLR4 Go target so Go modules so tags/versions/etc... work properly.
@@ -223,7 +223,7 @@
 ### [dromara/carbon](https://github.com/dromara/carbon)
 - **Description:** A simple, semantic and developer-friendly  time  package for golang
 
-### [mrtian2016/hass-panel](https://github.com/mrtian2016/hass-panel)
+### [ha-china/hass-panel](https://github.com/ha-china/hass-panel)
 - **Description:** 史上最简单的 Home Assistant 控制面板，基于 React 开发 | 一键部署到 HAOS | 有手就能用 | 无需编程经验 | 开箱即用
 
 ### [glorrian/cmake-gradle-plugin](https://github.com/glorrian/cmake-gradle-plugin)
