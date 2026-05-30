@@ -1,3 +1,6 @@
+### [nginxinc/nginx-go-crossplane](https://github.com/nginxinc/nginx-go-crossplane)
+- **Description:** A library for working with NGINX configs in Go 
+
 ### [pangongzi/phone](https://github.com/pangongzi/phone)
 - **Description:** phone.dat Mobile Number Location Database, Data Updated: 2025.02.14 | 手机号码归属地库 | 更新时间：2025年02月
 
