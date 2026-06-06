@@ -1838,9 +1838,6 @@
 ### [Kotlin/anko](https://github.com/Kotlin/anko)
 - **Description:** Pleasant Android application development
 
-### [willowtreeapps/spruce-android](https://github.com/willowtreeapps/spruce-android)
-- **Description:** Spruce Animation Library
-
 ### [QingdaoU/OnlineJudgeFE](https://github.com/QingdaoU/OnlineJudgeFE)
 - **Description:** A multiple pages app built for OnlineJudge
 
