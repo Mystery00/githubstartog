@@ -903,7 +903,7 @@
 - **Description:** Lightweight Multiplatform logging framework for Kotlin. A convenient and performant logging facade.
 
 ### [Homebrew/brew](https://github.com/Homebrew/brew)
-- **Description:** 🍺 The missing package manager for macOS (or Linux)
+- **Description:** 🍺 The Package Manager for Everywhere
 
 ### [infinet/lunar-calendar](https://github.com/infinet/lunar-calendar)
 - **Description:** iCal农历, 节气, 传统节日
