@@ -1,3 +1,6 @@
+### [gangz1o/clash4docker](https://github.com/gangz1o/clash4docker)
+- **Description:**  🐳🐱Docker  Clash: 主流协议平台全兼容，内置精美UI面板，一键部署，世界触手可及。✨
+
 ### [nginxinc/nginx-go-crossplane](https://github.com/nginxinc/nginx-go-crossplane)
 - **Description:** A library for working with NGINX configs in Go 
 
