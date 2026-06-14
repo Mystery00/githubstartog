@@ -2286,7 +2286,7 @@
 - **Description:** Android Library to rapidly develop attractive and insightful charts in android applications.
 
 ### [soruly/trace.moe](https://github.com/soruly/trace.moe)
-- **Description:** Trace back an anime scene with a screenshot
+- **Description:** Timestamp Retrieval for Anime Clips Everywhere
 
 ### [theme-next/hexo-theme-next](https://github.com/theme-next/hexo-theme-next)
 - **Description:** Elegant and powerful theme for Hexo.
