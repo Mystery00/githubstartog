@@ -1,5 +1,5 @@
-### [gangz1o/clash4docker](https://github.com/gangz1o/clash4docker)
-- **Description:**  🐳🐱Docker  Clash: 主流协议平台全兼容，内置精美UI面板，一键部署，世界触手可及。✨
+### [REIJI007/AdBlock_Rule_For_Sing-box](https://github.com/REIJI007/AdBlock_Rule_For_Sing-box)
+- **Description:** 适用于Sing-box的广告域名拦截RULE-SET规则集，每20分钟更新一次
 
 ### [nginxinc/nginx-go-crossplane](https://github.com/nginxinc/nginx-go-crossplane)
 - **Description:** A library for working with NGINX configs in Go 
