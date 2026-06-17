@@ -1,3 +1,6 @@
+### [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog)
+- **Description:** 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译
+
 ### [REIJI007/AdBlock_Rule_For_Sing-box](https://github.com/REIJI007/AdBlock_Rule_For_Sing-box)
 - **Description:** 适用于Sing-box的广告域名拦截RULE-SET规则集，每20分钟更新一次
 
@@ -146,7 +149,7 @@
 - **Description:** The pure-Go SQLite driver for GORM
 
 ### [xhongc/music-tag-web](https://github.com/xhongc/music-tag-web)
-- **Description:** 音乐标签编辑器，可编辑本地音乐文件的元数据（Editable local music file metadata.）
+- **Description:** 音乐标签编辑器，可编辑本地音乐文件的元数据, 音乐刮削。（Editable local music file metadata.）
 
 ### [ctripcorp/mmkv-kotlin](https://github.com/ctripcorp/mmkv-kotlin)
 - **Description:** A Kotlin Multiplatform porting for MMKV.
