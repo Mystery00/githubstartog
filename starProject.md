@@ -1,3 +1,6 @@
+### [Lin-arm/GKD_subscription](https://github.com/Lin-arm/GKD_subscription)
+- **Description:** 用于安卓 GKD 的第三方订阅规则 (👻Fork版)
+
 ### [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog)
 - **Description:** 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译
 
