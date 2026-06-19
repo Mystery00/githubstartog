@@ -238,9 +238,6 @@
 ### [langgenius/dify](https://github.com/langgenius/dify)
 - **Description:** Production-ready platform for agentic workflow development.
 
-### [Nain57/Smart-AutoClicker](https://github.com/Nain57/Smart-AutoClicker)
-- **Description:** An open-source auto clicker on images for Android
-
 ### [KRTirtho/spotube](https://github.com/KRTirtho/spotube)
 - **Description:** 🎧 Open source music streaming app! Available for both desktop & mobile!
 
