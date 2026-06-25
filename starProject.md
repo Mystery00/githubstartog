@@ -418,7 +418,7 @@
 - **Description:** Simple HTTP, REST, and SSE client library for Go
 
 ### [1Panel-dev/KubePi](https://github.com/1Panel-dev/KubePi)
-- **Description:** 🚀 A modern, open-source K8s panel developed by the official 1Panel team.
+- **Description:** 🚀 现代化、开源的K8s 面板，1Panel 官方出品。
 
 ### [tucnak/telebot](https://github.com/tucnak/telebot)
 - **Description:** Telebot is a Telegram bot framework in Go.
