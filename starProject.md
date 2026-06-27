@@ -16,9 +16,6 @@
 ### [kitsumed/ShizuCallRecorder](https://github.com/kitsumed/ShizuCallRecorder)
 - **Description:** ShizuCallRecorder empowers ADB through Shizuku to record phone calls on non-rooted device!
 
-### [jiaoyanming0-bot/OPAutoClicker](https://github.com/jiaoyanming0-bot/OPAutoClicker)
-- **Description:** OP Auto Clicker: Fast click interval, milliseconds, seconds. Left, right, middle button. keyboard auto clicker Single, double, triple click. Repeat until stopped, fixed count. Current location, pick coordinates. Hotkey trigger, start stop shortcut. Record playback, macro, Roblox AFK, Minecraft, mouse emulator, portable. 
-
 ### [sameerasw/essentials](https://github.com/sameerasw/essentials)
 - **Description:** Essential tools and mods for Android nerds
 
