@@ -313,7 +313,7 @@
 - **Description:** 🚀🏞✂️ Image cropper that can crop with static, dynamic crop behavior, can use customizable shapes, vectors, and other png files as mask to crop with various customizations
 
 ### [panpf/zoomimage](https://github.com/panpf/zoomimage)
-- **Description:** ZoomImage is an gesture zoom viewing of images library specially designed for Compose Multiplatform and Android View. Supported scale, pan, locate, rotation, and super-large image subsampling.
+- **Description:** Image zoom library specially designed for Compose Multiplatform and Android View. Supported scale, pan, locate, rotation, and super-large image subsampling.
 
 ### [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh)
 - **Description:** Easy and fast file sharing from the command-line.
