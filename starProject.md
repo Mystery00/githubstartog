@@ -123,9 +123,6 @@
 ### [moovweb/gvm](https://github.com/moovweb/gvm)
 - **Description:** Go Version Manager
 
-### [sky22333/hubproxy](https://github.com/sky22333/hubproxy)
-- **Description:** 多功能加速服务，支持Docker 镜像加速、GitHub 加速、下载离线镜像等功能。轻量级，不占用存储空间。
-
 ### [nikkinikki-org/OpenWrt-momo](https://github.com/nikkinikki-org/OpenWrt-momo)
 - **Description:** Transparent Proxy with sing-box on OpenWrt.
 
