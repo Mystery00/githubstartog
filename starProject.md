@@ -1,3 +1,6 @@
+### [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server)
+- **Description:** Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades versions, modloaders, modpacks and more at startup
+
 ### [Lin-arm/GKD_subscription](https://github.com/Lin-arm/GKD_subscription)
 - **Description:** 用于安卓 GKD 的第三方订阅规则 (👻Fork版)
 
