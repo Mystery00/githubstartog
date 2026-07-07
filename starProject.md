@@ -294,9 +294,6 @@
 ### [compose-fluent/compose-fluent-ui](https://github.com/compose-fluent/compose-fluent-ui)
 - **Description:** Fluent Design UI library for Compose Multiplatform
 
-### [mountain-loop/yaak](https://github.com/mountain-loop/yaak)
-- **Description:** The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
-
 ### [cloudflare/serverless-registry](https://github.com/cloudflare/serverless-registry)
 - **Description:** A container registry backed by Workers and R2.
 
@@ -415,7 +412,7 @@
 - **Description:** Simple HTTP, REST, and SSE client library for Go
 
 ### [1Panel-dev/KubePi](https://github.com/1Panel-dev/KubePi)
-- **Description:** 🚀 现代化、开源的K8s 面板，1Panel 官方出品。
+- **Description:** 🚀 现代化、开源的 K8s 面板，1Panel 官方出品。
 
 ### [tucnak/telebot](https://github.com/tucnak/telebot)
 - **Description:** Telebot is a Telegram bot framework in Go.
