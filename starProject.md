@@ -115,7 +115,7 @@
 - **Description:** A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats.
 
 ### [Guovin/iptv-api](https://github.com/Guovin/iptv-api)
-- **Description:** ⚡️IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成🚀』：自定义获取频道；IPv4/IPv6；接口验效；推流；多平台支持；工作流、Docker、命令行、GUI多端部署 | IPTV live streaming source automatic update platform
+- **Description:** ⚡️IPTV直播源自动更新工具：自动采集、校验、测速并生成可播放结果，支持 M3U/TXT/API 输出、自定义频道、IPv4/IPv6、Docker、GitHub Actions、CLI 与 GUI 多端部署
 
 ### [skydoves/compose-stability-analyzer](https://github.com/skydoves/compose-stability-analyzer)
 - **Description:** 🦄 Real-time analysis of Jetpack Compose composable functions' stability directly within Android Studio and IntelliJ.
