@@ -1,3 +1,5 @@
+### [windrlee/codex-touchbar-usage](https://github.com/windrlee/codex-touchbar-usage)
+
 ### [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server)
 - **Description:** Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades versions, modloaders, modpacks and more at startup
 
@@ -431,7 +433,7 @@
 ### [apache/skywalking-go](https://github.com/apache/skywalking-go)
 - **Description:** The Golang auto-instrument Agent for Apache SkyWalking, which provides the native tracing/metrics/logging abilities for Golang projects.
 
-### [square/okio](https://github.com/square/okio)
+### [lysine-dev/okio](https://github.com/lysine-dev/okio)
 - **Description:** A modern I/O library for Android, Java, and Kotlin Multiplatform.
 
 ### [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
@@ -2205,10 +2207,10 @@
 ### [lyoshenka/cloudflare-ddns](https://github.com/lyoshenka/cloudflare-ddns)
 - **Description:** Simple, free dynamic DNS via Cloudflare
 
-### [square/okhttp](https://github.com/square/okhttp)
-- **Description:** Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
+### [lysine-dev/okhttp](https://github.com/lysine-dev/okhttp)
+- **Description:** A meticulous HTTP client for the JVM, Android, and GraalVM.
 
-### [square/retrofit](https://github.com/square/retrofit)
+### [lysine-dev/retrofit](https://github.com/lysine-dev/retrofit)
 - **Description:** A type-safe HTTP client for Android and the JVM
 
 ### [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro)
