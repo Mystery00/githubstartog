@@ -1,3 +1,9 @@
+### [klboke/kkRepo](https://github.com/klboke/kkRepo)
+- **Description:** kkRepo is a Nexus-compatible, self-hosted artifact repository for Maven, npm, PyPI, Go, Helm, NuGet, Cargo/Rust, Dart/Pub, Docker/OCI, RubyGems, and Yum artifacts. It supports one-click migration from Nexus to kkRepo.
+
+### [pshenok/server-survival](https://github.com/pshenok/server-survival)
+- **Description:** Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
+
 ### [windrlee/codex-touchbar-usage](https://github.com/windrlee/codex-touchbar-usage)
 
 ### [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server)
