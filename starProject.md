@@ -1140,7 +1140,7 @@
 ### [winshining/nginx-http-flv-module](https://github.com/winshining/nginx-http-flv-module)
 - **Description:** A media streaming server based on nginx-rtmp-module. In addtion to the features nginx-rtmp-module provides, HTTP-FLV, GOP cache, VHosts (one IP for multi domain names) and JSON style statistics are supported now.
 
-### [YJBeetle/ThrowItBot](https://github.com/YJBeetle/ThrowItBot)
+### [YJBeetle/Workers-TGBot-ThrowIt](https://github.com/YJBeetle/Workers-TGBot-ThrowIt)
 
 ### [redis/RedisDesktopManager](https://github.com/redis/RedisDesktopManager)
 
