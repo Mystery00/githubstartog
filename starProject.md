@@ -244,7 +244,7 @@
 - **Description:** Gradle plugin for comfortable CMake build system using inside gradle builds
 
 ### [langgenius/dify](https://github.com/langgenius/dify)
-- **Description:** Production-ready platform for agentic workflow development.
+- **Description:** Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.
 
 ### [KRTirtho/spotube](https://github.com/KRTirtho/spotube)
 - **Description:** 🎧 Open source music streaming app! Available for both desktop & mobile!
