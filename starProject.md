@@ -1,3 +1,9 @@
+### [team-ide/go-driver](https://github.com/team-ide/go-driver)
+- **Description:** Go数据库驱动
+
+### [t8y2/dbx](https://github.com/t8y2/dbx)
+- **Description:** 20 MB lightweight cross-platform database client for 70+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 70+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。
+
 ### [klboke/kkRepo](https://github.com/klboke/kkRepo)
 - **Description:** kkRepo is a Nexus-compatible, self-hosted artifact repository for Maven, npm, PyPI, Go, Helm, NuGet, Cargo/Rust, Dart/Pub, Docker/OCI, RubyGems, and Yum artifacts. It supports one-click migration from Nexus to kkRepo.
 
