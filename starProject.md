@@ -1,3 +1,6 @@
+### [router-for-me/EasyCLIProxyAPI](https://github.com/router-for-me/EasyCLIProxyAPI)
+- **Description:** A desktop GUI for CLIProxyAPI and a tool for automatically configuring popular AI agents.
+
 ### [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)
 - **Description:** Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude model through API
 
@@ -22,7 +25,7 @@
 - **Description:** 用于安卓 GKD 的第三方订阅规则 (👻Fork版)
 
 ### [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog)
-- **Description:** 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译
+- **Description:** 🐸 Read Frog - Language Learning & Translate | 🐸 陪读蛙 - 语言学习与翻译
 
 ### [REIJI007/AdBlock_Rule_For_Sing-box](https://github.com/REIJI007/AdBlock_Rule_For_Sing-box)
 - **Description:** 适用于Sing-box的广告域名拦截RULE-SET规则集，每20分钟更新一次
