@@ -1,3 +1,6 @@
+### [compose-miuix-ui/miuix](https://github.com/compose-miuix-ui/miuix)
+- **Description:** A UI library for Compose Multiplatform
+
 ### [router-for-me/EasyCLIProxyAPI](https://github.com/router-for-me/EasyCLIProxyAPI)
 - **Description:** A desktop GUI for CLIProxyAPI and a tool for automatically configuring popular AI agents.
 
@@ -1090,7 +1093,7 @@
 ### [rholder/guava-retrying](https://github.com/rholder/guava-retrying)
 - **Description:** This is a small extension to Google's Guava library to allow for the creation of configurable retrying strategies for an arbitrary function call, such as something that talks to a remote service with flaky uptime.
 
-### [spring-projects/spring-retry](https://github.com/spring-projects/spring-retry)
+### [spring-attic/spring-retry](https://github.com/spring-attic/spring-retry)
 
 ### [apache/superset](https://github.com/apache/superset)
 - **Description:** Apache Superset is a Data Visualization and Data Exploration Platform
