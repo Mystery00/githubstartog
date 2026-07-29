@@ -2244,7 +2244,7 @@
 - **Description:** QQ && Telegram Forward Framework :: C++ Version
 
 ### [hemanth/awesome-pwa](https://github.com/hemanth/awesome-pwa)
-- **Description:** Awesome list of progressive web apps!
+- **Description:** A curated list of Progressive Web Apps, resources, tools and articles
 
 ### [anggrayudi/android-hidden-api](https://github.com/anggrayudi/android-hidden-api)
 - **Description:** A library that provides access to Android hidden APIs and internal resources.
