@@ -2120,7 +2120,7 @@
 ### [LineageOS/android_frameworks_base](https://github.com/LineageOS/android_frameworks_base)
 
 ### [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
-- **Description:** 📂 Web File Browser
+- **Description:** File Browser provides a file managing interface within a specified directory and it can be used to upload, delete, preview and edit your files.
 
 ### [Blankj/AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)
 - **Description:** :fire: Android developers should collect the following utils(updating).
