@@ -578,7 +578,7 @@
 - **Description:** Wiki.js | A modern and powerful wiki app built on Node.js
 
 ### [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)
-- **Description:** 🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web interface.
+- **Description:** 🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform.
 
 ### [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx)
 - **Description:** Ingress NGINX Controller for Kubernetes
