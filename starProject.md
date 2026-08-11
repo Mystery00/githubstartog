@@ -1,3 +1,6 @@
+### [earendil-works/pi](https://github.com/earendil-works/pi)
+- **Description:** AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+
 ### [compose-miuix-ui/miuix](https://github.com/compose-miuix-ui/miuix)
 - **Description:** A UI library for Compose Multiplatform
 
@@ -1431,7 +1434,7 @@
 - **Description:** Analyzes resource usage and performance characteristics of running containers.
 
 ### [GradleUp/shadow](https://github.com/GradleUp/shadow)
-- **Description:** Gradle plugin for creating fat/uber JARs, transforming files, relocating packages, and optimizing applications with R8/ProGuard. The Gradle counterpart to Maven’s Shade plugin.
+- **Description:** Gradle plugin for creating fat/uber JARs, transforming files, relocating packages, and optimizing applications with R8/ProGuard. The Gradle counterpart to Maven's Shade plugin.
 
 ### [yamada95/kitsunebi-android](https://github.com/yamada95/kitsunebi-android)
 - **Description:**  A fully-featured V2Ray client for Android.
