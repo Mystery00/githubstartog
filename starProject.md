@@ -1,3 +1,6 @@
+### [metowolf/vCards](https://github.com/metowolf/vCards)
+- **Description:** 📡️ vCards 中国黄页 - 优化 iOS/Android 来电、信息界面体验
+
 ### [earendil-works/pi](https://github.com/earendil-works/pi)
 - **Description:** AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 
