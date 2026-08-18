@@ -1,3 +1,9 @@
+### [nicobailon/pi-subagents](https://github.com/nicobailon/pi-subagents)
+- **Description:** Pi extension for async subagent delegation with truncation, artifacts, and session sharing
+
+### [iebb/mithka](https://github.com/iebb/mithka)
+- **Description:** A Telegram client, but déjà vu
+
 ### [metowolf/vCards](https://github.com/metowolf/vCards)
 - **Description:** 📡️ vCards 中国黄页 - 优化 iOS/Android 来电、信息界面体验
 
