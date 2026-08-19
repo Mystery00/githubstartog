@@ -731,7 +731,7 @@
 - **Description:** Automatically activate the correct input source.
 
 ### [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
-- **Description:** An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。  
+- **Description:** An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。  
 
 ### [oligot/go-mod-upgrade](https://github.com/oligot/go-mod-upgrade)
 - **Description:** Update outdated Go dependencies interactively
