@@ -1443,7 +1443,7 @@
 - **Description:** Analyzes resource usage and performance characteristics of running containers.
 
 ### [GradleUp/shadow](https://github.com/GradleUp/shadow)
-- **Description:** Gradle plugin for creating fat/uber JARs, transforming files, relocating packages, and optimizing applications with R8/ProGuard. The Gradle counterpart to Maven's Shade plugin.
+- **Description:** Gradle plugin for creating fat/uber JARs, transforming files, relocating packages, and optimizing applications with R8/ProGuard. The Gradle counterpart to Maven Shade Plugin.
 
 ### [yamada95/kitsunebi-android](https://github.com/yamada95/kitsunebi-android)
 - **Description:**  A fully-featured V2Ray client for Android.
