@@ -138,7 +138,7 @@
 - **Description:** Java binary serialization and cloning: fast, efficient, automatic
 
 ### [tw93/Mole](https://github.com/tw93/Mole)
-- **Description:** 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac.
+- **Description:** 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
 
 ### [antlr4-go/antlr](https://github.com/antlr4-go/antlr)
 - **Description:** A release write-only repo for ANTLR4 Go target so Go modules so tags/versions/etc... work properly.
