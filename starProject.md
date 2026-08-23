@@ -85,7 +85,7 @@
 - **Description:** B站直播掉宝助手，支持多线程加速
 
 ### [owu/wsl-dashboard](https://github.com/owu/wsl-dashboard)
-- **Description:** A GUI manager for WSL featuring a modern UI — a lightweight, low‑memory, high‑performance dashboard to manage WSL instances.
+- **Description:** A GUI manager for WSL featuring a modern UI — a lightweight, low‑memory, high‑performance dashboard to manage WSL instances.  Install, list, start, stop, unregister, and configure your WSL distros​ from one place.
 
 ### [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills)
 
