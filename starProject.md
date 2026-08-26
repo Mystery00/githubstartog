@@ -632,7 +632,7 @@
 - **Description:** Yet another barcode scanner for Android
 
 ### [Moriafly/SaltPlayerSource](https://github.com/Moriafly/SaltPlayerSource)
-- **Description:** Salt Player (A local music player trusted and chosen by hundreds of thousands of users) for Android Release, Feedback.
+- **Description:** A multi-platform local music player in continuous development since 2020, serving over one million users. This repository is used for issue tracking and official Android package releases.
 
 ### [prometheus/client_golang](https://github.com/prometheus/client_golang)
 - **Description:** Prometheus instrumentation library for Go applications
