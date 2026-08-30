@@ -1,3 +1,6 @@
+### [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail)
+- **Description:** Vibe code with pi in a lightweight, real IDE - The Vibe You Need
+
 ### [nicobailon/pi-subagents](https://github.com/nicobailon/pi-subagents)
 - **Description:** Pi extension for async subagent delegation with truncation, artifacts, and session sharing
 
