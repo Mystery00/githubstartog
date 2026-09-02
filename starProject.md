@@ -1,3 +1,6 @@
+### [seakee/CPA-Manager-Plus](https://github.com/seakee/CPA-Manager-Plus)
+- **Description:** A self-hosted CPA / CLIProxyAPI management panel and AI gateway observability dashboard for requests, usage, cost, quota, failures, and account health.
+
 ### [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail)
 - **Description:** Vibe code with pi in a lightweight, real IDE - The Vibe You Need
 
