@@ -173,8 +173,6 @@
 ### [nikkinikki-org/OpenWrt-momo](https://github.com/nikkinikki-org/OpenWrt-momo)
 - **Description:** Transparent Proxy with sing-box on OpenWrt.
 
-### [Zephyruso/zashboard](https://github.com/Zephyruso/zashboard)
-
 ### [vvb2060/PackageInstaller](https://github.com/vvb2060/PackageInstaller)
 - **Description:** A lightweight yet powerful package installer for Android.
 
@@ -593,7 +591,7 @@
 - **Description:** A library for audio and music analysis, feature extraction.
 
 ### [requarks/wiki](https://github.com/requarks/wiki)
-- **Description:** Wiki.js | A modern and powerful wiki app built on Node.js
+- **Description:** Wiki.js | Next Generation Open Source Wiki
 
 ### [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)
 - **Description:** 🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform.
