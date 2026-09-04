@@ -1,3 +1,8 @@
+### [herdrdev/herdr](https://github.com/herdrdev/herdr)
+- **Description:** the runtime your coding agents live on
+
+### [Rahularya01/pi-antigravity](https://github.com/Rahularya01/pi-antigravity)
+
 ### [seakee/CPA-Manager-Plus](https://github.com/seakee/CPA-Manager-Plus)
 - **Description:** A self-hosted CPA / CLIProxyAPI management panel and AI gateway observability dashboard for requests, usage, cost, quota, failures, and account health.
 
