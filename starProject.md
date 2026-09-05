@@ -551,7 +551,7 @@
 - **Description:** An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
 
 ### [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat)
-- **Description:** ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
+- **Description:** ✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS, Android, Linux, Windows.
 
 ### [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather)
 - **Description:** A feature-rich weather app with good visualizations and more than 50 sources.
