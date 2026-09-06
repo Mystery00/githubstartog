@@ -9,9 +9,6 @@
 ### [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail)
 - **Description:** Vibe code with pi in a lightweight, real IDE - The Vibe You Need
 
-### [nicobailon/pi-subagents](https://github.com/nicobailon/pi-subagents)
-- **Description:** Pi extension for async subagent delegation with truncation, artifacts, and session sharing
-
 ### [iebb/mithka](https://github.com/iebb/mithka)
 - **Description:** A Telegram client, but déjà vu
 
@@ -350,7 +347,7 @@
 ### [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku)
 - **Description:** Curated list of awesome Android apps making use of Shizuku
 
-### [syumai/workers](https://github.com/syumai/workers)
+### [syumai/workers-go](https://github.com/syumai/workers-go)
 - **Description:** Go package to run an HTTP server on Cloudflare Workers.
 
 ### [SmartToolFactory/Compose-Cropper](https://github.com/SmartToolFactory/Compose-Cropper)
