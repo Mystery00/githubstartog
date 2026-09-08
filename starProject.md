@@ -2401,7 +2401,7 @@
 - **Description:** ShadowsocksR update rss, SSR organization 
 
 ### [NewFuture/DDNS](https://github.com/NewFuture/DDNS)
-- **Description:** 🌐自动更新域名解析到本机IP(支持dnspod,阿里DNS,CloudFlare,华为云,DNSCOM...)
+- **Description:** 🌐自动更新域名解析到本机IP,支持dnspod,阿里DNS,CloudFlare,华为云,DNSCOM...
 
 ### [franmontiel/PersistentCookieJar](https://github.com/franmontiel/PersistentCookieJar)
 - **Description:** A persistent CookieJar implementation for OkHttp 3 based on SharedPreferences.
