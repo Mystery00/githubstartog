@@ -1,3 +1,6 @@
+### [XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)
+- **Description:** ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
+
 ### [herdrdev/herdr](https://github.com/herdrdev/herdr)
 - **Description:** the runtime your coding agents live on
 
