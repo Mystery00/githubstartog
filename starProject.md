@@ -28,7 +28,7 @@
 - **Description:** A desktop GUI for CLIProxyAPI and a tool for automatically configuring popular AI agents.
 
 ### [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)
-- **Description:** Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.6 Series, Grok 4.5, Claude model through API
+- **Description:** Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Davin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API
 
 ### [team-ide/go-driver](https://github.com/team-ide/go-driver)
 - **Description:** Go数据库驱动
