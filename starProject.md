@@ -81,7 +81,7 @@
 - **Description:** A Cloudflare-based email service  | 基于 Cloudflare 的邮箱服务  | Cloudflare Email 邮箱 Mail
 
 ### [kite-org/kite](https://github.com/kite-org/kite)
-- **Description:** 🪁 A lightweight, modern Kubernetes dashboard that unifies multi-cluster and resource management, enterprise-grade user governance (OAuth, RBAC, and audit logs), and AI agents in one workspace. Not just a tool, but more like a platform.
+- **Description:** 🪁 A lightweight, modern Kubernetes dashboard. All your clusters. One workspace.
 
 ### [eryajf/kite-desktop](https://github.com/eryajf/kite-desktop)
 - **Description:** kite-desktop，一个基于 Wails v3 打造、面向桌面端的 K8S 多集群管理工具 🪁
