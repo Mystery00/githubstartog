@@ -1,3 +1,6 @@
+### [onlymash/IsekaiPlayer](https://github.com/onlymash/IsekaiPlayer)
+- **Description:** Sovereign above myriad realms; shatter every mortal cipher.
+
 ### [XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)
 - **Description:** ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
 
