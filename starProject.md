@@ -1844,9 +1844,6 @@
 ### [ehForwarderBot/ehForwarderBot](https://github.com/ehForwarderBot/ehForwarderBot)
 - **Description:** An extensible message tunneling chat bot framework. Delivers messages to and from multiple platforms and remotely control your accounts.
 
-### [8enet/AppOpsX](https://github.com/8enet/AppOpsX)
-- **Description:** :wrench:A front-end application for the Android AppOpsService.
-
 ### [tyrantgit/ExplosionField](https://github.com/tyrantgit/ExplosionField)
 - **Description:** explosive dust effect for views
 
