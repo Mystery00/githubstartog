@@ -1,3 +1,9 @@
+### [storytold/photocraft](https://github.com/storytold/photocraft)
+- **Description:** An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
+
+### [HmnDev-Tech/shevery](https://github.com/HmnDev-Tech/shevery)
+- **Description:** Shevery - Modernized Android manager with Jetpack Compose, Material 3, and compatibility enhancements.
+
 ### [onlymash/IsekaiPlayer](https://github.com/onlymash/IsekaiPlayer)
 - **Description:** Sovereign above myriad realms; shatter every mortal cipher.
 
@@ -13,7 +19,7 @@
 - **Description:** A self-hosted CPA / CLIProxyAPI management panel and AI gateway observability dashboard for requests, usage, cost, quota, failures, and account health.
 
 ### [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail)
-- **Description:** Vibe code with pi in a lightweight, real IDE - The Vibe You Need
+- **Description:** Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need
 
 ### [iebb/mithka](https://github.com/iebb/mithka)
 - **Description:** A Telegram client, but déjà vu
