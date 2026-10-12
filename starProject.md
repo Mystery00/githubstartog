@@ -2,7 +2,7 @@
 - **Description:** A password manager that supports Bitwarden platform and KeePass (KDBX) files. It autofills your logins, supports passkeys, works offline, and runs a Watchtower that finds leaked and reused passwords and other issues.
 
 ### [storytold/photocraft](https://github.com/storytold/photocraft)
-- **Description:** An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
+- **Description:** PhotoCraft: An open-source, photo editor written by scratch in pure Rust
 
 ### [HmnDev-Tech/shevery](https://github.com/HmnDev-Tech/shevery)
 - **Description:** Shevery - Modernized Android manager with Jetpack Compose, Material 3, and compatibility enhancements.
