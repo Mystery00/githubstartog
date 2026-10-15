@@ -63,7 +63,7 @@
 - **Description:** 用于安卓 GKD 的第三方订阅规则 (👻Fork版)
 
 ### [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog)
-- **Description:** 🐸 Read Frog - Language Learning & Translate | 🐸 陪读蛙 - 语言学习与翻译
+- **Description:** 🐸 Read Frog - Open-source AI language learning & flashcards, an Immersive Translate alternative | 🐸 陪读蛙 - 开源 AI 语言学习与闪词卡，沉浸式翻译替代
 
 ### [REIJI007/AdBlock_Rule_For_Sing-box](https://github.com/REIJI007/AdBlock_Rule_For_Sing-box)
 - **Description:** 适用于Sing-box的广告域名拦截RULE-SET规则集，每20分钟更新一次
@@ -79,9 +79,6 @@
 
 ### [sameerasw/essentials](https://github.com/sameerasw/essentials)
 - **Description:** Essential tools and mods for Android nerds
-
-### [tale/headplane](https://github.com/tale/headplane)
-- **Description:** A feature-complete Web UI for Headscale
 
 ### [mengfei523060/nesrom](https://github.com/mengfei523060/nesrom)
 - **Description:** nes游戏合集
