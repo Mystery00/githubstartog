@@ -1,3 +1,6 @@
+### [stablyai/orca](https://github.com/stablyai/orca)
+- **Description:** Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
+
 ### [AChep/keyguard-app](https://github.com/AChep/keyguard-app)
 - **Description:** A password manager that supports Bitwarden platform and KeePass (KDBX) files. It autofills your logins, supports passkeys, works offline, and runs a Watchtower that finds leaked and reused passwords and other issues.
 
@@ -158,7 +161,7 @@
 - **Description:** Java binary serialization and cloning: fast, efficient, automatic
 
 ### [tw93/Mole](https://github.com/tw93/Mole)
-- **Description:** 🐹 Keep your Mac clean, light, and running like new. Fast open-source CLI, plus a native Mac app.
+- **Description:** 🐹 Keep your Mac and PC clean, light, and running like new. Fast open-source CLI, plus native Mac and Windows apps.
 
 ### [antlr4-go/antlr](https://github.com/antlr4-go/antlr)
 - **Description:** A release write-only repo for ANTLR4 Go target so Go modules so tags/versions/etc... work properly.
@@ -342,7 +345,7 @@
 - **Description:** Empty world generation with new ways to obtain resources
 
 ### [Moriafly/SaltUI](https://github.com/Moriafly/SaltUI)
-- **Description:** UI Components for Compose Multiplatform (Android/Desktop/iOS).
+- **Description:** A platform-aware UI toolkit for Compose Multiplatform, from components to native window integration.
 
 ### [jordanbaird/Ice](https://github.com/jordanbaird/Ice)
 - **Description:** Powerful menu bar manager for macOS
