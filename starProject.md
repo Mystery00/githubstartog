@@ -90,7 +90,7 @@
 - **Description:** JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 
 ### [maillab/cloud-mail](https://github.com/maillab/cloud-mail)
-- **Description:** A Cloudflare-based email service  | 基于 Cloudflare 的邮箱服务  | Cloudflare Email 邮箱 Mail
+- **Description:** An all-in-one email service platform powered by Cloudflare  | 基于 Cloudflare 的一站式邮箱服务平台  | Cloudflare Email 邮箱 Mail
 
 ### [kite-org/kite](https://github.com/kite-org/kite)
 - **Description:** 🪁 A lightweight, modern Kubernetes dashboard. All your clusters. One workspace.
