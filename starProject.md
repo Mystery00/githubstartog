@@ -1410,7 +1410,7 @@
 - **Description:** The Apache Tika toolkit detects and extracts metadata and text from over a thousand different file types (such as PPT, XLS, and PDF).
 
 ### [InsertKoinIO/koin](https://github.com/InsertKoinIO/koin)
-- **Description:** Koin - a pragmatic lightweight dependency injection framework for Kotlin & Kotlin Multiplatform
+- **Description:** Koin - pragmatic dependency injection for Kotlin & Kotlin Multiplatform. Koin DSL or Koin Annotations (JSR-330), compile safe with the Koin Compiler Plugin.
 
 ### [YiiGuxing/TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin)
 - **Description:** Translation plugin for IntelliJ-based IDEs/Android Studio.
