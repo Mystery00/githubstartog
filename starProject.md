@@ -1,3 +1,6 @@
+### [sdmj76/Mousecape-swiftUI](https://github.com/sdmj76/Mousecape-swiftUI)
+- **Description:** Cursor Manager Rewritten from Mousecape with Swift
+
 ### [Moriafly/spw-workshop-api](https://github.com/Moriafly/spw-workshop-api)
 - **Description:** SPW 创意工坊（Mod）API
 
