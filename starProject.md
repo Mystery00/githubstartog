@@ -220,7 +220,7 @@
 - **Description:** A Kotlin Multiplatform porting for MMKV.
 
 ### [vinceglb/FileKit](https://github.com/vinceglb/FileKit)
-- **Description:** Pick and save Files, Medias and Folder for Kotlin Multiplatform / KMP and Compose Multiplatform / CMP
+- **Description:** File operations and native file pickers for Kotlin Multiplatform and Compose Multiplatform: read, write, copy and list files, open and save dialogs, image compression, bookmarks. Android, iOS, macOS, JVM desktop, Linux, Windows, JS, Wasm.
 
 ### [touchlab/Kermit](https://github.com/touchlab/Kermit)
 - **Description:** Kermit by Touchlab is a Kotlin Multiplatform centralized logging utility. 
