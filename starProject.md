@@ -617,7 +617,7 @@
 - **Description:** Wiki.js | Next Generation Open Source Wiki
 
 ### [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)
-- **Description:** 🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform.
+- **Description:** 🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform. 1Panel 是专门为 AI 服务器打造的管理面板。
 
 ### [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx)
 - **Description:** Ingress NGINX Controller for Kubernetes
