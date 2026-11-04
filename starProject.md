@@ -1,3 +1,6 @@
+### [anothaDev/luci-theme-vantage](https://github.com/anothaDev/luci-theme-vantage)
+- **Description:** Vantage: a from-scratch LuCI theme and live dashboard for OpenWrt 25.12
+
 ### [sdmj76/Mousecape-swiftUI](https://github.com/sdmj76/Mousecape-swiftUI)
 - **Description:** Cursor Manager Rewritten from Mousecape with Swift
 
