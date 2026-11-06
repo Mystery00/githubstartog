@@ -8,16 +8,13 @@
 - **Description:** SPW 创意工坊（Mod）API
 
 ### [stablyai/orca](https://github.com/stablyai/orca)
-- **Description:** Orca is the place for working with a fleet of coding agents (e.g. Claude Code, Codex). Run any agent with your own subscription. Available on desktop, mobile and remote runtime.
+- **Description:** Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.
 
 ### [AChep/keyguard-app](https://github.com/AChep/keyguard-app)
 - **Description:** A password manager that supports Bitwarden platform and KeePass (KDBX) files. It autofills your logins, supports passkeys, works offline, and runs a Watchtower that finds leaked and reused passwords and other issues.
 
 ### [storytold/photocraft](https://github.com/storytold/photocraft)
 - **Description:** PhotoCraft: An open-source, photo editor written by scratch in pure Rust
-
-### [HmnDev-Tech/shevery](https://github.com/HmnDev-Tech/shevery)
-- **Description:** Shevery - Modernized Android manager with Jetpack Compose, Material 3, and compatibility enhancements.
 
 ### [onlymash/IsekaiPlayer](https://github.com/onlymash/IsekaiPlayer)
 - **Description:** Sovereign above myriad realms; shatter every mortal cipher.
