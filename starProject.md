@@ -14,7 +14,7 @@
 - **Description:** A password manager that supports Bitwarden platform and KeePass (KDBX) files. It autofills your logins, supports passkeys, works offline, and runs a Watchtower that finds leaked and reused passwords and other issues.
 
 ### [storytold/photocraft](https://github.com/storytold/photocraft)
-- **Description:** PhotoCraft: An open-source, photo editor written by scratch in pure Rust
+- **Description:** PhotoCraft: An open-source photo editor written from scratch in pure Rust
 
 ### [onlymash/IsekaiPlayer](https://github.com/onlymash/IsekaiPlayer)
 - **Description:** Sovereign above myriad realms; shatter every mortal cipher.
@@ -332,7 +332,7 @@
 ### [ARC-MX/sgcc_electricity_new](https://github.com/ARC-MX/sgcc_electricity_new)
 - **Description:** HomeAssistant 国家电网电费查询
 
-### [korbinjoe/excalidraw-cn](https://github.com/korbinjoe/excalidraw-cn)
+### [hijoebon/excalidraw-cn](https://github.com/hijoebon/excalidraw-cn)
 - **Description:** Excalidraw-CN 是支持中文手写和多画布的 Excalidraw 白板工具。Excalidraw-CN  is a whiteboard supporting Chinese hand draw font and multi-canvas based on Excalidraw.
 
 ### [WuKongIM/WuKongIM](https://github.com/WuKongIM/WuKongIM)
@@ -1582,7 +1582,7 @@
 - **Description:** Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes
 
 ### [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes)
-- **Description:** Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 850 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, Windows, Visual Studio,, Ghostty, and dozens more
+- **Description:** Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 900 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, Windows, Visual Studio,, Ghostty, and dozens more
 
 ### [AdoptOpenJDK/homebrew-openjdk](https://github.com/AdoptOpenJDK/homebrew-openjdk)
 - **Description:** AdoptOpenJDK HomeBrew Tap
