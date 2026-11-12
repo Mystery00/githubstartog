@@ -84,7 +84,7 @@
 - **Description:** phone.dat Mobile Number Location Database, Data Updated: 2025.02.14 | 手机号码归属地库 | 更新时间：2025年02月
 
 ### [kitsumed/ShizuCallRecorder](https://github.com/kitsumed/ShizuCallRecorder)
-- **Description:** ShizuCallRecorder empowers ADB through Shizuku to record phone calls on non-rooted device!
+- **Description:** ShizuCallRecorder empowers ADB through Shizuku to record phone calls on non-rooted device! Free, no ads or telemetry.
 
 ### [sameerasw/essentials](https://github.com/sameerasw/essentials)
 - **Description:** Essential tools and mods for Android nerds
