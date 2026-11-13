@@ -121,9 +121,6 @@
 ### [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
 - **Description:** Browser automation CLI for AI agents
 
-### [realMoai/NowbarMeter](https://github.com/realMoai/NowbarMeter)
-- **Description:** Nowbar Meter is a network speed monitor application designed specifically for Samsung devices with the nowbar feature.
-
 ### [TomBadash/Mouser](https://github.com/TomBadash/Mouser)
 - **Description:** A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.
 
@@ -1582,7 +1579,7 @@
 - **Description:** Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes
 
 ### [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes)
-- **Description:** Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 900 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, Windows, Visual Studio,, Ghostty, and dozens more
+- **Description:** Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 950 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, Windows, Visual Studio,, Ghostty, and dozens more
 
 ### [AdoptOpenJDK/homebrew-openjdk](https://github.com/AdoptOpenJDK/homebrew-openjdk)
 - **Description:** AdoptOpenJDK HomeBrew Tap
