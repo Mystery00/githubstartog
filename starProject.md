@@ -74,9 +74,6 @@
 ### [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog)
 - **Description:** 🐸 Read Frog - Open-source AI language learning & flashcards, an Immersive Translate alternative | 🐸 陪读蛙 - 开源 AI 语言学习与闪词卡，沉浸式翻译替代
 
-### [REIJI007/AdBlock_Rule_For_Sing-box](https://github.com/REIJI007/AdBlock_Rule_For_Sing-box)
-- **Description:** 适用于Sing-box的广告域名拦截RULE-SET规则集，每20分钟更新一次
-
 ### [nginxinc/nginx-go-crossplane](https://github.com/nginxinc/nginx-go-crossplane)
 - **Description:** A library for working with NGINX configs in Go 
 
