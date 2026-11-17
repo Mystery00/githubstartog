@@ -399,7 +399,7 @@
 - **Description:** A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
 
 ### [mzzsfy/Dockerfile](https://github.com/mzzsfy/Dockerfile)
-- **Description:** 一些针对第三方工程的dockerfile,部分文件可以配合另一个项目的白嫖github action
+- **Description:** 一些针对第三方工程的dockerfile,部分文件可以配合另一个项目的白嫖github action.附带几个脚本
 
 ### [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
 - **Description:** A maintained, feature-rich and performance oriented, neofetch like system information tool.
@@ -2002,7 +2002,7 @@
 ### [rubensousa/GravitySnapHelper](https://github.com/rubensousa/GravitySnapHelper)
 - **Description:** A SnapHelper that snaps a RecyclerView to an edge.
 
-### [DrKLO/Telegram](https://github.com/DrKLO/Telegram)
+### [TelegramMessenger/Telegram-Android](https://github.com/TelegramMessenger/Telegram-Android)
 - **Description:** Telegram for Android source
 
 ### [k0shk0sh/FastHub](https://github.com/k0shk0sh/FastHub)
