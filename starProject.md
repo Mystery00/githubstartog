@@ -1,3 +1,6 @@
+### [anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager)
+- **Description:** misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux
+
 ### [anothaDev/luci-theme-vantage](https://github.com/anothaDev/luci-theme-vantage)
 - **Description:** Vantage: a from-scratch LuCI theme and live dashboard for OpenWrt 25.12
 
