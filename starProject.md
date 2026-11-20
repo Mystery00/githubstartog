@@ -121,6 +121,9 @@
 ### [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
 - **Description:** Browser automation CLI for AI agents
 
+### [realMoai/NowbarMeter](https://github.com/realMoai/NowbarMeter)
+- **Description:** Nowbar Meter is a network speed monitor application designed specifically for Samsung devices with the nowbar feature.
+
 ### [TomBadash/Mouser](https://github.com/TomBadash/Mouser)
 - **Description:** A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.
 
