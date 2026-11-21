@@ -11,7 +11,7 @@
 - **Description:** SPW 创意工坊（Mod）API
 
 ### [stablyai/orca](https://github.com/stablyai/orca)
-- **Description:** Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.
+- **Description:** Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.
 
 ### [AChep/keyguard-app](https://github.com/AChep/keyguard-app)
 - **Description:** A password manager that supports Bitwarden platform and KeePass (KDBX) files. It autofills your logins, supports passkeys, works offline, and runs a Watchtower that finds leaked and reused passwords and other issues.
@@ -1237,7 +1237,7 @@
 ### [elastic/helm-charts](https://github.com/elastic/helm-charts)
 - **Description:** You know, for Kubernetes
 
-### [YeDaxia/JApiDocs](https://github.com/YeDaxia/JApiDocs)
+### [hidaxia/JApiDocs](https://github.com/hidaxia/JApiDocs)
 - **Description:** A magical api documentation generator without annotation for springboot. 
 
 ### [raphw/byte-buddy](https://github.com/raphw/byte-buddy)
