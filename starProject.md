@@ -1,3 +1,6 @@
+### [l0ng-ai/openidea](https://github.com/l0ng-ai/openidea)
+- **Description:** The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60+ languages.
+
 ### [anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager)
 - **Description:** misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux
 
