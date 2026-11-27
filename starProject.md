@@ -1,3 +1,6 @@
+### [DaLongZhuaZi/harmonyos-ci](https://github.com/DaLongZhuaZi/harmonyos-ci)
+- **Description:** HarmonyOS CI images & toolchain (command-line-tools Docker images for API 23/26)
+
 ### [l0ng-ai/openidea](https://github.com/l0ng-ai/openidea)
 - **Description:** The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60+ languages.
 
@@ -405,7 +408,7 @@
 - **Description:** 适用于 Halo 2.0 的瞬间插件
 
 ### [chromedp/chromedp](https://github.com/chromedp/chromedp)
-- **Description:** A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
+- **Description:** Drive Chrome from Go over the Chrome DevTools Protocol: browser automation, web scraping, testing, screenshots and PDFs. No Node, Selenium or WebDriver.
 
 ### [mzzsfy/Dockerfile](https://github.com/mzzsfy/Dockerfile)
 - **Description:** 一些针对第三方工程的dockerfile,部分文件可以配合另一个项目的白嫖github action.附带几个脚本
@@ -1009,9 +1012,6 @@
 ### [alexeyco/simpletable](https://github.com/alexeyco/simpletable)
 - **Description:** Simple tables in terminal with Go
 
-### [mritd/bubbles](https://github.com/mritd/bubbles)
-- **Description:** TUI components for Bubble Tea(Similar to the official bubbles 😊)
-
 ### [desertbit/grumble](https://github.com/desertbit/grumble)
 - **Description:** A powerful modern CLI and SHELL
 
@@ -1357,9 +1357,6 @@
 
 ### [kelseyhightower/envconfig](https://github.com/kelseyhightower/envconfig)
 - **Description:** Golang library for managing configuration data from environment variables
-
-### [mritd/swns](https://github.com/mritd/swns)
-- **Description:** A simple plugin for kubectl to switch current context namespace.
 
 ### [kubernetes/sample-cli-plugin](https://github.com/kubernetes/sample-cli-plugin)
 - **Description:** Sample kubectl plugin
